@@ -8,3 +8,4 @@ Software Engineering project repository.
  - Nathalie Atouba-Eyoune 6596977
  - Eric Kohler 6180590
  - Santiago Franco 6227052
+ - Kenny Yang 5934104
