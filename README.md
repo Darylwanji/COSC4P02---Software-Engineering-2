@@ -7,4 +7,5 @@ Software Engineering project repository.
  - jiahui xu 5716907
  - Nathalie Atouba-Eyoune 6596977
  - Eric Kohler 6180590
+ - Santiago Franco 6227052
  - Kenny Yang 5934104
