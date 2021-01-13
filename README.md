@@ -10,3 +10,4 @@ Software Engineering project repository.
  - Santiago Franco 6227052
  - Kenny Yang 5934104
  - Zihao Zhao 5961099
+ - Xingzhi Chang 6015242
