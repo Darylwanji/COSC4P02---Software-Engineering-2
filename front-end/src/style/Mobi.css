@@ -1,0 +1,104 @@
+/* The top area contains the Logo */
+#header-container {
+    margin: 10px auto 4px auto;
+    text-align: center;
+}
+
+@media screen and (max-width : 1920px) and (min-width: 1280px)  {
+    #header-logo{
+        height:100px;
+        width:360px;
+    }
+    .menu-navigation-bar-menu-link {
+        font-size: 20px;
+        padding-right: 40px;
+        padding-left: 40px;
+    }
+}
+
+@media screen and (max-width : 1280px) and (min-width: 900px)  {
+    #header-logo{
+        height:100px;
+        width:360px;
+    }
+    .menu-navigation-bar-menu-link {
+        font-size: 20px;
+        padding-right: 40px;
+        padding-left: 40px;
+    }
+}
+
+@media only screen and (max-width: 900px) and (min-width: 600px){
+    #header-logo{
+        height:70px;
+        width:250px;
+    }
+    .menu-navigation-bar-menu-link {
+        font-size: 15px;
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+}
+
+@media only screen and (max-width: 600px){
+    #header-logo{
+        height:70px;
+        width:250px;
+    }
+    .menu-navigation-bar-menu-link {
+        font-size:     15px;
+        padding-right: 10px;
+        padding-left:  10px;
+    }
+}
+
+.menu-navigation-bar-menu-title{
+    margin: 5px;
+    padding: 0px;
+    display: inline-block;
+}
+
+/* The top level of navigation menu*/
+/* Background colour for all nabigation bars in different screen sizes */
+#navigation-bar {
+    display: grid;
+    justify-content: center;
+    /* align-content: center; */
+    text-align: center;
+    width: 100%;
+    min-height: 45px;
+    /*background-color: #004f71; !* The backgroud colour for blue version *!*/
+    background-color: #c00000; /* The backgroud colour for red version */
+}
+
+/* For the items(link) in navigation bar */
+.menu-navigation-bar-menu-link {
+    font-family: "Trebuchet MS";
+    grid-row: 1;
+    display: flex;
+    align-items: center;
+}
+
+.right-break{
+    border-right:2px solid white;
+}
+
+/* the navigation items(link) hover effect for Blue version */
+/* .menu-navigation-bar-menu-link:hover {
+    background-color: #004664;;
+} */
+
+/* the navigation items(link) hover effect for Red version */
+.menu-navigation-bar-menu-link:hover {
+    background-color: #a90000;
+}
+
+.menu-navigation-bar-menu-link, 
+.menu-navigation-bar-menu-link:hover, 
+.menu-navigation-bar-menu-link:active, 
+.menu-navigation-bar-menu-link:visited, 
+.menu-navigation-bar-menu-link:focus {
+    text-decoration: none;
+    color: white;
+}
+
