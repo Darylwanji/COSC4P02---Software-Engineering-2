@@ -93,7 +93,7 @@ def bag_of_words(s, words):
 
 def Test(inp):
     results = model.predict([bag_of_words(inp,words)])
-    reults_index = np.argmax(results)
+    results_index = np.argmax(results)
     tag = labels[results_index] 
     for tg in data["intents"]:
         if tg['tag'] == tag:
