@@ -4,13 +4,24 @@ import re
 #Name: Kenny Yang - 5934104
 #The following python script will only be using json to translate a text document into a json file
 
+#The following method parses scapeInfo.txt and organizes it into the following format in a .json file:
+# Title: Title of the Course, eg. Applied Disability Studies
+# Administrative Assistant:
+#  admin name: Admin's name
+#  contact information: Phone number with extension
+#  office location: The Brock University campus office location
+#  email: The email/web page to contact the adminstrative assistant
+# Available Courses:
+#  course ID: The course's ID
+#  course name: The name of the course
+#  course description: A description of the course, including alternative names, and what it consists of
+# Description: A list of information regarding the title of the course
+
 def scrapeInfoOneToJson():
     
-    #f = open("scrapeInfo.txt","r")
     f = open("scrapeInfo.txt","r")
     
     start = False
-    end = False
     sectionStart = False
     courseStart = False
     anAdmin = False
@@ -26,7 +37,7 @@ def scrapeInfoOneToJson():
     
     for x in f:
         
-        if x == '\n':           # This portion skips the new line
+        if x == '\n':           #This portion skips the new line
             
             if start == False:
                 start = True
@@ -154,6 +165,10 @@ def scrapeInfoOneToJson():
     
     return allCourses
     
+#The following method parses scapeInfo.txt and organizes it into the following format in a .json file:
+# Title: Title of the web page
+# Description: Information within the web page in descending order    
+    
 def scrapeInfoTwoToJson():
     
     f = open("scrapeInfo2.txt","r")
@@ -226,7 +241,14 @@ def scrapeInfoTwoToJson():
     json.dump(allWebSite,open("scrapeInfo2Json.json", "w"), indent = 6)
     
     return allWebSite
-    
+
+#The following method parses scapeInfo.txt and organizes it into the following format in a .json file:
+# Title: Title of the web page
+# Information: The following information represents a table
+#  Tag1: Information
+#  ...:
+#  TagN: Information
+
 def scrapeInfoThreeToJson():
     
     f = open("scrapeInfo3.txt","r")
@@ -307,7 +329,14 @@ def scrapeInfoThreeToJson():
     json.dump(website,open("scrapeInfo3Json.json","w"), indent = 6)
     
     return website
-    
+
+#The following method parses scapeInfo.txt and organizes it into the following format in a .json file:
+# Title: Title of the web page
+# Info: The following information is represented in a table
+#  Tag1: Information
+#  ...
+#  TagN: Information
+
 def scrapeInfoFourToJson():
     
     f = open("scrapeInfo4.txt","r")
@@ -335,7 +364,6 @@ def scrapeInfoFourToJson():
         if x == '\n':           # This portion skips the new line
             
             if len(tableTags) > 0:
-                print(tableTags)
                 tableTags = []
                 
             if start == False:
@@ -364,7 +392,6 @@ def scrapeInfoFourToJson():
                 tableTags = []
                 
                 title = x[0:len(x) - 1]
-                print(title)
                 y = title.split('\u2013')
                 replace = ''
                 for line in y:
@@ -377,10 +404,7 @@ def scrapeInfoFourToJson():
             elif len(x) <= 2: #Start of a new table
                 
                 y = int(x[0])
-                if len(tableTags) > 0:
-                    #print(tableTags)
-                    print()
-                
+                 
                 tableTags = []
                 
                 if y == 9:
@@ -407,7 +431,6 @@ def scrapeInfoFourToJson():
                     
                     if total == 0:
                         total = int(countRef)
-                        #print(info)
                         
                         aCount = 0
                         
@@ -425,13 +448,16 @@ def scrapeInfoFourToJson():
         oneWebsite['info'] = oneWebsiteInfo
         allWebsite.append(oneWebsite)
     
-    for x in allWebsite:
-        print(x)
-    
     json.dump(allWebsite,open("scrapeInfo4Json.json","w"), indent = 6)
     
     return allWebsite
-    
+
+#The following method parses scapeInfo.txt and organizes it into the following format in a .json file:
+# Title: Title of the web page
+# Info: Information within the web page that is further broken down according to their sections
+#  Title: Title of a section
+#  Info: Information on the title of the section 
+
 def scrapeInfoFiveToJson():
     
     f = open("scrapeInfo5.txt","r")
@@ -445,13 +471,10 @@ def scrapeInfoFiveToJson():
     title = ''          #Contains the website's title
     sectionTitle = ''
     info = []           #Contains the website's information in order
-    tableTags = []      #Contains the tags 
     oneWebsiteInfo = []
     sectionInfo = {}
     oneSection = []
     count = 0
-    countRef = 0
-    total = 0
     
     for x in f:
         
@@ -550,6 +573,13 @@ def scrapeInfoFiveToJson():
     
     return allWebSite
     
+#The following method parses scapeInfo.txt and organizes it into the following format in a .json file:
+# Title: Title of the web page
+# Info: Information regarding the title of the web page
+# List: If a list is within the web page then this is included as well
+#  Title: Title of the section
+#  Info: Information regarding the section
+
 def scrapeInfoSixToJson():
     
     f = open("scrapeInfo6.txt","r")
@@ -574,14 +604,10 @@ def scrapeInfoSixToJson():
     aList = {}
     listPoints = []
     
-    countRef = 0
-    total = 0
-    
     for x in f:
         
         if x == '\n':           # This portion skips the new line
             if len(tableTags) > 0:
-                print(tableTags)
                 tableTags = []
                 
             if start == False:
@@ -598,7 +624,20 @@ def scrapeInfoSixToJson():
             
         elif sectionStart == True:
             if title == '':
-                title = x[0: len(x) - 1]
+                
+                y = x[0: len(x) - 1] 
+                
+                k = y.split('\u2013')
+                
+                line = ""
+                
+                for aLine in k:
+                    if aLine[0] == ' ':
+                        line += "-" + aLine
+                    else:
+                        line += aLine
+                
+                title = line
                 
                 if oneWebsite.get('title') is not None:
                     if sectionTitle != '':
@@ -642,7 +681,7 @@ def scrapeInfoSixToJson():
                 sectionTitle = x[0:len(x) - 1]
                 aList['title'] = sectionTitle
             elif sectionInfo == True: #info in list
-                listPoints.append(x)
+                listPoints.append(x[0:len(x) - 1])
             else:
                 y = x.split('\n')
                 
@@ -658,13 +697,15 @@ def scrapeInfoSixToJson():
         oneWebsite['info'] = info
         oneWebsite['list'] = allLists
         allWebSite.append(oneWebsite)
-    for x in allWebSite:
-        print(x)
-    
+      
     json.dump(allWebSite,open("scrapeInfo6Json.json","w"), indent = 6)
     
     return allWebSite
     
+#The following method parses scapeInfo.txt and organizes it into the following format in a .json file:
+# Title: Title of a web page
+# Website: Direct link of the web page 
+
 def scrapeDirect():
     f = open("resultText.txt","r")
     
@@ -708,6 +749,8 @@ def scrapeDirect():
     json.dump(allLinks,open("resultText.json","w"), indent = 6)
     
     return allLinks
+    
+#This method compiles all the individual .txt -> .json files into a single .json file
     
 def main():
     
