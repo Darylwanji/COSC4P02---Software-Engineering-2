@@ -41,6 +41,7 @@ input, bubble, chatContainer, iframeContainer and brockNews */
 #main{
     display: inline-block;
     vertical-align: top;
+    margin: 30px;
     /* border: 1px solid black; */
 }
 
@@ -58,7 +59,7 @@ input, bubble, chatContainer, iframeContainer and brockNews */
 #input{
     padding: 15px;
     padding-left: 25px;
-    width: 80%;
+    width: 70%;
     height:60px;
     display: inline;
     border-radius: 0px;
