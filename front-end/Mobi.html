@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> <!--for glyphicon-->
     <link rel="stylesheet" href="src/style/style-faq.css" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <base target="_blank">
 
 </head>
 
@@ -48,139 +49,6 @@
     <!-- container for faq and chatbot section, css in chatbot_window.css -->
     <main id="page-content">
 
-        <div id="faq">
-            <img id="faq_logo" src="src/icon/FAQ.png" alt="FAQ" width="100" height="50" />
-            <p id="fqa_description">Find answers to our most common questions here:</p>
-            <!--first Topic-->
-            <div class="faq-content">
-                <h4 class="faq-title">Brock DB Information System (Brock Portal)</h4>
-
-                <div class="button_FQA" onclick="showAnswer()">
-                    <!--question 1-->
-                    <p class="faq-question">What is my campus ID</p>
-                    <i class="glyphicon glyphicon-plus"></i>
-                </div>
-                <div class="faq-answer">
-                    <p class="faq-answer-text">
-                        A CampusID is assigned to all new students at registration or to faculty
-                        and staff when hired. This is the first part of your Brock e-mail address and,
-                        along with your password, is used to logon to a number of services, portals and applications.
-                    </p>
-                </div>
-
-                <div class="button_FQA" onclick="showAnswer()">
-                    <!--question 2-->
-                    <p class="faq-question">How do I activate my account on the portal</p>
-                    <i class="glyphicon glyphicon-plus"></i>
-                </div>
-                <div class="faq-answer">
-                    <p class="faq-answer-text">
-                        To activate your account, go to
-                        <a class="faq-answer-text" href="https://brocku.ca/information-technology/activate-account/">Activate Account and Reset Password</a>.
-                        You may also visit the Help Desk locations during open hours for assistance. Hours and locations are available on Brock university Contact Us page.
-                    </p>
-                </div>
-
-                <div class="button_FQA">
-                    <!--question 3-->
-                    <p class="faq-question">
-                        How do I change my campus ID password
-                    </p>
-                    <i class="glyphicon glyphicon-plus"></i>
-                </div>
-                <div class="faq-answer">
-                    <p class="faq-answer-text">
-                        If your password has expired or you would like to change it, you can change your password here.
-                        New passwords must contain at least 3 different types of characters (i.e. lowercase, uppercase,
-                        numbers or special characters such as “!”, “@”, “#”, etc.) and be between 10 and 30 characters
-                        in length. Note that certain words are prohibited from being used in passwords – for example,
-                        abcdefg, badger, brock, iloveyou, letmein, password, whatever, qwerty and surgite. Former passwords,
-                        as well as iterations of prohibited words, will also not be accepted. Examples include Br0ck!, What3v3r and p@$$w0rd.
-                    </p>
-                </div>
-
-                <div class="button_FQA">
-                    <!--question 4-->
-                    <p class="faq-question">
-                        I've forgotten my campus password what should I do?
-                    </p>
-                    <i class="glyphicon glyphicon-plus"></i>
-                </div>
-                <div class="faq-answer">
-                    <p class="faq-answer-text">
-                        If you have forgotten your password, you can reset it from the
-                        <a class="faq-answer-text" href="https://brocku.ca/information-technology/activate-account/">Activate Account and Reset Password</a> page.
-                    </p>
-                </div>
-
-                <!--Second Topic-->
-
-                <h4 class="faq-title">Network / WiFi Related</h4>
-                <div class="button_FQA">
-                    <!--question 1-->
-                    <p class="faq-question">
-                        I'm unable to connect to the Brock WiFi network
-                    </p>
-                    <i class="glyphicon glyphicon-plus"></i>
-                </div>
-                <div class="faq-answer">
-                    <p class="faq-answer-text">
-                        Full instructions on how to connect most devices with your CampusID can be found on the
-                        <a class="faq-answer-text" href="https://brocku.ca/information-technology/service-catalogue/networking-and-connectivity/wireless-network/">Wireless</a> page.
-                        If you are unable to connect, you may directly visit the Help Desk locations during open hours for assistance. Hours and locations are available on the
-                        <a class="faq-answer-text" href="https://brocku.ca/information-technology/about-its/contact-us/">Contact Us</a> page.
-                        If you are a guest at the university or do not have a CampusID, please go to the Help Desk.
-                    </p>
-                </div>
-
-                <div class="button_FQA">
-                    <!--question 2-->
-                    <p class="faq-question">
-                        How do I connect my mobile device to the Brock network?
-                    </p>
-                    <i class="glyphicon glyphicon-plus"></i>
-                </div>
-                <div class="faq-answer">
-                    <p class="faq-answer-text">
-                        Mobile devices may be connected to the wireless network, “BrockWiFi”, using your CampusID. Full instructions are available on the
-                        <a class="faq-answer-text" href="https://brocku.ca/information-technology/service-catalogue/networking-and-connectivity/wireless-network/">Wireless</a> page.
-                        If you are unable to connect, you may directly visit the Help Desk locations during open hours for assistance. Hours and locations are available on the
-                        <a class="faq-answer-text" href="https://brocku.ca/information-technology/about-its/contact-us/">Contact Us</a> page.
-                    </p>
-                </div>
-
-                <div class="button_FQA">
-                    <!--question 3-->
-                    <p class="faq-question">
-                        I'm a guest at the university, may I connect to your wireless network?
-                    </p>
-                    <i class="glyphicon glyphicon-plus"></i>
-                </div>
-                <div class="faq-answer">
-                    <p class="faq-answer-text">
-                        Guests may directly visit the Help Desk locations during open hours for assistance. Hours and locations are available on the
-                        <a class="faq-answer-text" href="https://brocku.ca/information-technology/about-its/contact-us/">Contact Us</a> page.
-
-                    </p>
-                </div>
-
-                <div class="button_FQA">
-                    <!--question 4-->
-                    <p class="faq-question">
-                        How do I connect my gaming console or smart device to the Brock WiFi network?
-                    </p>
-                    <i class="glyphicon glyphicon-plus"></i>
-                </div>
-                <div class="faq-answer">
-                    <p class="faq-answer-text">
-                        Please consult the setup guides provided on the
-                        <a class="faq-answer-text" href="https://brocku.ca/information-technology/service-catalogue/residence-technology/">Residence Technology</a> page for more information.
-                    </p>
-                </div>
-            </div>
-
-        </div>
-
         <div id="main">
             <!-- container for chatbox -->
             <div id="chatBox">
@@ -191,7 +59,7 @@
                 <!-- for initial MoBi message -->
                 <div id="bot" class="chatContainer">
                     <div id="botText" class="bubble">
-                        <span class="message"><b>MoBi:</b></span> Ask me anything!
+                        <span class="message"><b>MoBi:</b></span> Ask me anything about Brock U or the Niagara 2022 Summer Games!
                     </div>
                 </div>
             </div>
@@ -203,12 +71,285 @@
             </div>
         </div>
 
+        <div id="faq">
+            <img id="faq_logo" src="src/icon/FAQ.png" alt="FAQ" width="100" height="50" />
+            <p id="fqa_description">Find answers to common questions about Brock University or the Niagara 2022 Summer Games here:</p>
+            <div class="faq-selector-container">
+                <p class="faq-selector" style="border-right: 2px solid #cccccc;" onclick="swapFaq(0)">Brock University</p>
+                <p class="faq-selector" onclick="swapFaq(1)">Niagara 2022</p>
+            </div>
+
+            <div id="faq-brock">
+                <!--first Topic-->
+                <div class="faq-content">
+                    <h4 class="faq-title">Brock DB Information System (Brock Portal)</h4>
+
+                    <div class="button_FQA">
+                        <!--question 1-->
+                        <p class="faq-question">What is my campus ID</p>
+                        <i class="glyphicon glyphicon-plus"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p class="faq-answer-text">
+                            A CampusID is assigned to all new students at registration or to faculty
+                            and staff when hired. This is the first part of your Brock e-mail address and,
+                            along with your password, is used to logon to a number of services, portals and applications.
+                        </p>
+                    </div>
+
+                    <div class="button_FQA">
+                        <!--question 2-->
+                        <p class="faq-question">How do I activate my account on the portal</p>
+                        <i class="glyphicon glyphicon-plus"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p class="faq-answer-text">
+                            To activate your account, go to
+                            <a href="https://brocku.ca/information-technology/activate-account/">Activate Account and Reset Password</a>.
+                            You may also visit the Help Desk locations during open hours for assistance. Hours and locations are available on Brock university Contact Us page.
+                        </p>
+                    </div>
+
+                    <div class="button_FQA">
+                        <!--question 3-->
+                        <p class="faq-question">
+                            How do I change my campus ID password
+                        </p>
+                        <i class="glyphicon glyphicon-plus"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p class="faq-answer-text">
+                            If your password has expired or you would like to change it, you can change your password here.
+                            New passwords must contain at least 3 different types of characters (i.e. lowercase, uppercase,
+                            numbers or special characters such as “!”, “@”, “#”, etc.) and be between 10 and 30 characters
+                            in length. Note that certain words are prohibited from being used in passwords – for example,
+                            abcdefg, badger, brock, iloveyou, letmein, password, whatever, qwerty and surgite. Former passwords,
+                            as well as iterations of prohibited words, will also not be accepted. Examples include Br0ck!, What3v3r and p@$$w0rd.
+                        </p>
+                    </div>
+
+                    <div class="button_FQA">
+                        <!--question 4-->
+                        <p class="faq-question">
+                            I've forgotten my campus password what should I do?
+                        </p>
+                        <i class="glyphicon glyphicon-plus"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p class="faq-answer-text">
+                            If you have forgotten your password, you can reset it from the
+                            <a href="https://brocku.ca/information-technology/activate-account/">Activate Account and Reset Password</a> page.
+                        </p>
+                    </div>
+
+                    <!--Second Topic-->
+
+                    <h4 class="faq-title">Network / WiFi Related</h4>
+                    <div class="button_FQA">
+                        <!--question 1-->
+                        <p class="faq-question">
+                            I'm unable to connect to the Brock WiFi network
+                        </p>
+                        <i class="glyphicon glyphicon-plus"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p class="faq-answer-text">
+                            Full instructions on how to connect most devices with your CampusID can be found on the
+                            <a href="https://brocku.ca/information-technology/service-catalogue/networking-and-connectivity/wireless-network/">Wireless</a> page.
+                            If you are unable to connect, you may directly visit the Help Desk locations during open hours for assistance. Hours and locations are available on the
+                            <a href="https://brocku.ca/information-technology/about-its/contact-us/">Contact Us</a> page.
+                            If you are a guest at the university or do not have a CampusID, please go to the Help Desk.
+                        </p>
+                    </div>
+
+                    <div class="button_FQA">
+                        <!--question 2-->
+                        <p class="faq-question">
+                            How do I connect my mobile device to the Brock network?
+                        </p>
+                        <i class="glyphicon glyphicon-plus"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p class="faq-answer-text">
+                            Mobile devices may be connected to the wireless network, “BrockWiFi”, using your CampusID. Full instructions are available on the
+                            <a href="https://brocku.ca/information-technology/service-catalogue/networking-and-connectivity/wireless-network/">Wireless</a> page.
+                            If you are unable to connect, you may directly visit the Help Desk locations during open hours for assistance. Hours and locations are available on the
+                            <a href="https://brocku.ca/information-technology/about-its/contact-us/">Contact Us</a> page.
+                        </p>
+                    </div>
+
+                    <div class="button_FQA">
+                        <!--question 3-->
+                        <p class="faq-question">
+                            I'm a guest at the university, may I connect to your wireless network?
+                        </p>
+                        <i class="glyphicon glyphicon-plus"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p class="faq-answer-text">
+                            Guests may directly visit the Help Desk locations during open hours for assistance. Hours and locations are available on the
+                            <a href="https://brocku.ca/information-technology/about-its/contact-us/">Contact Us</a> page.
+
+                        </p>
+                    </div>
+
+                    <div class="button_FQA">
+                        <!--question 4-->
+                        <p class="faq-question">
+                            How do I connect my gaming console or smart device to the Brock WiFi network?
+                        </p>
+                        <i class="glyphicon glyphicon-plus"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p class="faq-answer-text">
+                            Please consult the setup guides provided on the
+                            <a href="https://brocku.ca/information-technology/service-catalogue/residence-technology/">Residence Technology</a> page for more information.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div id="faq-niagara">
+                <!--first Topic-->
+                <div class="faq-content">
+                    <h4 class="faq-title">Niagara 2022 Summer Games Postponement FAQs</h4>
+
+                    <div class="button_FQA">
+                        <!--question 1-->
+                        <p class="faq-question">What are the new dates for the Games?</p>
+                        <i class="glyphicon glyphicon-plus"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p class="faq-answer-text">
+                            The Niagara 2022 Canada Summer Games are now scheduled to take place between August 6 and 21, 2022.
+                        </p>
+                    </div>
+
+                    <div class="button_FQA">
+                        <!--question 2-->
+                        <p class="faq-question">When were the Canada Summer Games originally scheduled to occur?</p>
+                        <i class="glyphicon glyphicon-plus"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p class="faq-answer-text">
+                            The Niagara 2021 Canada Summer Games were originally scheduled to occur between August 6 and 21, 2021.                            
+                        </p>
+                    </div>
+
+                    <div class="button_FQA">
+                        <!--question 3-->
+                        <p class="faq-question">
+                            With the Games now scheduled to take place in 2022, will the same athletes remain eligible?
+                        </p>
+                        <i class="glyphicon glyphicon-plus"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p class="faq-answer-text">
+                            In light of the decision to postpone the Canada Summer Games in Niagara by a year, the Canada Games Council (CGC) has been working collaboratively with all affected National Sport Organizations (NSOs) to review each sport’s technical package and its athlete eligibility rules for 2022.
+                            Where practical, sports have adjusted their age categories so that the same cohort of athletes that was eligible for the Games in 2021 will remain eligible for the Niagara 2022 Canada Summer Games.
+                            <a href="https://niagara2022games.ca/news/article/age-categories-for-the-niagara-2022-canada-summer-games/">All approved age categories for sports on the 2022 Canada Games program can be found here.</a>
+                        </p>
+                    </div>
+
+                    <div class="button_FQA">
+                        <!--question 4-->
+                        <p class="faq-question">
+                            Why were the Games postponed now?
+                        </p>
+                        <i class="glyphicon glyphicon-plus"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p class="faq-answer-text">
+                            The decision was made in September 2020, after careful consideration, to protect the health of Canadians and give all stakeholders, including our 13 provincial and territorial teams, more time to adjust their preparations for a later start date. 
+                            Given the uncertainty created by the ongoing pandemic, the Games were postponed, first and foremost, to ensure the health and safety of all the athletes, coaches, staff, volunteers and spectators expected to attend this event. Additionally, the COVID-19 pandemic would have likely prevented us from delivering a phenomenal Games experience, both in terms of sport competitions and cultural events.
+                            We also recognize that there has been limited organized sport in Canada since the COVID-19 pandemic struck earlier this year, which created some concerns about whether all teams could be adequately prepared for a 2021 date.
+                        </p>
+                    </div>
+
+                    <!--Second Topic-->
+
+                    <div class="button_FQA">
+                        <!--question 1-->
+                        <p class="faq-question">
+                            What factors were considered in making this decision?
+                        </p>
+                        <i class="glyphicon glyphicon-plus"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p class="faq-answer-text">
+                            A number of factors were taken into consideration when making this decision, including:<br>
+                            1- Uncertainty in 2021 due to the ongoing pandemic<br>
+                            2- Prioritizing everyone’s health and safety<br>
+                            3- Improving our ability to deliver a phenomenal Games experience to all
+                        </p>
+                    </div>
+
+                    <div class="button_FQA">
+                        <!--question 2-->
+                        <p class="faq-question">
+                            Who was involved in the decision to postpone?
+                        </p>
+                        <i class="glyphicon glyphicon-plus"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p class="faq-answer-text">
+                            The decision to postpone was made by the Canada Games Council and the Niagara Host Society, after consulting with the Niagara Region, the Province of Ontario, the Federal Government and other important stakeholders.
+                        </p>
+                    </div>
+
+                    <div class="button_FQA">
+                        <!--question 3-->
+                        <p class="faq-question">
+                            Does this affect future Canada Games?
+                        </p>
+                        <i class="glyphicon glyphicon-plus"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p class="faq-answer-text">
+                            The dates of future Canada Games (eg: PEI 2023, Newfoundland and Labrador 2025, etc.) have not been impacted by the postponement of the Niagara 2021 Canada Summer Games. The Canada Games Council will continue to work closely with stakeholders and future hosts to monitor the situation.
+                        </p>
+                    </div>
+
+                    <div class="button_FQA">
+                        <!--question 4-->
+                        <p class="faq-question">
+                            Does this impact the athletes that may go on to the Olympics or Paralympics?
+                        </p>
+                        <i class="glyphicon glyphicon-plus"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p class="faq-answer-text">
+                            Athletes competing in the Canada Games are typically a few years away from competing in an Olympic or Paralympic Games and the selection process for Olympics and Paralympics is completely independent of the Canada Games. 
+                        </p>
+                    </div>
+
+                    <div class="button_FQA">
+                        <!--question 4-->
+                        <p class="faq-question">
+                            Will work continue on the various Niagara Legacy infrastructure projects?
+                        </p>
+                        <i class="glyphicon glyphicon-plus"></i>
+                    </div>
+                    <div class="faq-answer">
+                        <p class="faq-answer-text">
+                            The construction of Canada Games Park near Brock University and the planned improvements to the Henley Rowing Course in St. Catharines, two key legacy projects for the Canada Summer Games, will continue on current scheduling, unaffected by the postponement.
+                            A later start date for the Games provides additional time to ensure those facilities are fully prepared to host spectacular events.
+                        </p>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+
     </main>
 
 </body>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script type="text/javascript">
+
+    var swapNum;
 
     function clickedClassHandler(name, callback) {
         // apply click handler to all elements with matching className
@@ -240,6 +381,10 @@
     };
 
     clickedClassHandler("button_FQA", function (index) {
+        if(swapNum==1){
+            index = index+(parseInt(document.getElementsByClassName("button_FQA").length/2));
+        }
+
         // do something with the index
         console.log(index);
 
@@ -248,6 +393,15 @@
         var dropdown = document.getElementsByClassName("button_FQA");
         var dropdown_answer = document.getElementsByClassName("faq-answer");
         var symbol = document.getElementsByClassName("glyphicon");
+
+        for(i = 0; i < dropdown_answer.length; i++){
+            if(i!=index){
+                dropdown_answer[i].style.display = 'none';
+                symbol[i].classList.remove("glyphicon-minus");
+                symbol[i].classList.add("glyphicon-plus");
+            }
+        }
+
         if (dropdown_answer[index].style.display == 'flex') {
             dropdown_answer[index].style.display = 'none';
             symbol[index].classList.remove("glyphicon-minus");
@@ -258,6 +412,40 @@
             symbol[index].classList.add("glyphicon-minus");
         }
     });
+
+    function swapFaq(s){
+        swapNum = s;
+
+        var niagara = document.getElementById("faq-niagara");
+        var brock = document.getElementById("faq-brock");
+        var selectors = document.getElementsByClassName("faq-selector");
+
+        for(i = 0; i < selectors.length; i++){
+            selectors[i].classList.remove("highlight");
+            selectors[i].classList.remove("no-highlight");
+        }
+
+        brock.classList.remove("hide");
+        brock.classList.remove("show");
+        niagara.classList.remove("hide");
+        niagara.classList.remove("show");
+
+        if(swapNum==0){
+            brock.classList.add("show");
+            niagara.classList.add("hide");
+            selectors[0].classList.add("highlight");
+            selectors[1].classList.add("no-highlight");
+        }else{
+            niagara.classList.add("show");
+            brock.classList.add("hide");
+            selectors[1].classList.add("highlight");
+            selectors[0].classList.add("no-highlight");
+        }
+    }
+
+    console.log(document.getElementsByClassName("button_FQA").length);
+
+    swapFaq(0);
 
 </script>
 
