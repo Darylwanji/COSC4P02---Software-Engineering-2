@@ -37,6 +37,7 @@
     display: inline-block;
     text-align: left;
     font-family: 'Lato', sans-serif;
+    margin: 30px;
     /* border: 1px solid red; */
 }
 
@@ -94,7 +95,7 @@
     padding:0px;
 }
 
-.button_FQA:hover{
+.button_FQA:hover {
     background-color: #cccccc;
 }
 
@@ -103,4 +104,42 @@
     color: #ac0000; /*red*/
     display: inline-block;
     margin-top:-5px;
+}
+
+.faq-selector-container{
+    margin-left: 10px;
+    margin-top: 10px;
+    display: grid;
+    width:92.5%;
+}
+
+.faq-selector{
+    /* margin-right: 5px; */
+    border:none;
+    color: white;
+    background-color: #c00000;
+    padding: 5px;
+    cursor: pointer;
+    grid-row: 1;
+    text-align: center;
+}
+
+.faq-selector:hover{
+    background-color: #a90000;
+}
+
+.hide{
+    display:none;
+}
+
+.show{
+    display:block;
+}
+
+.highlight{
+    background-color: #a90000;
+}
+
+.no-highlight{
+    background-color: #c00000;
 }
