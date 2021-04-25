@@ -211,6 +211,8 @@ for url in f:
     #get sportname from the url
     sporturl = url.split("/")
     sportname = sporturl[len(sporturl)-1]
+    
+    sportname = sportname[0:len(sportname) - 1]
    
     #request the general info, table data, and alumni data and set them to variables
     gen = getGenInfo(html_content)
@@ -230,7 +232,7 @@ for url in f:
     })
 
 #writre the final output data to a file as a JSON 
-with open('sportInfo.txt','a') as outfile:
+with open('sportInfo.json','a') as outfile:
     json.dump(data,outfile,indent=4)
     # count += 1
 # with open('sportInfo.txt') as json_file:
