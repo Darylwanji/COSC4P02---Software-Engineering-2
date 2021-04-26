@@ -1,0 +1,145 @@
+/*
+ *@author: Nathalie Atouba-Eyoune
+ *@Student#: 6596977
+ *@Title: FAQ section style
+ *@Version: v1
+*/
+
+@media screen and (max-width : 1920px) and (min-width: 1280px){
+    #faq{
+        width: 600px;
+    }
+}
+
+@media screen and (max-width : 1280px) and (min-width: 1024px){
+    #faq{
+        width: 600px;
+    }
+}
+
+@media screen and (max-width : 1024px) and (min-width: 600px){
+    #faq{
+        width: 470px;
+    }
+}
+
+@media screen and (max-width : 600px){
+    #faq{
+        width: 350px;
+    }
+}
+
+.faq-content{
+    margin: 3% 2% 3% 2%; /*top right bottom left*/
+}
+
+#faq{
+    display: inline-block;
+    text-align: left;
+    font-family: 'Lato', sans-serif;
+    margin: 30px;
+    /* border: 1px solid red; */
+}
+
+.faq-answer{
+    display: none;
+    /* display: flex; */
+    text-align:left;
+    color: #ac0000; /*red*/
+    /* border-bottom: 1px solid #dcdcdc; */
+    margin-bottom: 6px;
+    margin-top: -6px;
+    background-color: #dcdcdc;
+    padding: 5px;
+    width:96%;
+    align-items:center;
+}
+
+.faq-answer-text{
+    margin: 0px;
+    padding:0px;
+    color: black;
+}
+
+
+#fqa_description {
+    text-align: left;
+    margin: 10px 0 0 2%;
+}
+
+#faq_logo {
+    position: relative;
+    margin-right: 2%;
+    margin-left: 2%;
+}
+.faq-title{
+    font-weight:bold;
+}
+.button_FQA{
+    text-align:left;
+    color: #ac0000; /*red*/
+    border: none;
+    margin-bottom: 6px;
+    background-color: #f0f0f0;
+    padding: 5px;
+    cursor: pointer;
+    width:96%;
+    display:flex;
+    align-items:center;
+}
+
+.faq-question{
+    width:98%;
+    display: inline-block;
+    margin: 0px;
+    padding:0px;
+}
+
+.button_FQA:hover {
+    background-color: #cccccc;
+}
+
+
+.glyphicon, .glyphicon-plus, .glyphicon-minus{
+    color: #ac0000; /*red*/
+    display: inline-block;
+    margin-top:-5px;
+}
+
+.faq-selector-container{
+    margin-left: 10px;
+    margin-top: 10px;
+    display: grid;
+    width:92.5%;
+}
+
+.faq-selector{
+    /* margin-right: 5px; */
+    border:none;
+    color: white;
+    background-color: #c00000;
+    padding: 5px;
+    cursor: pointer;
+    grid-row: 1;
+    text-align: center;
+}
+
+.faq-selector:hover{
+    background-color: #a90000;
+}
+
+.hide{
+    display:none;
+}
+
+.show{
+    display:block;
+}
+
+.highlight{
+    background-color: #a90000;
+}
+
+.no-highlight{
+    background-color: #c00000;
+}

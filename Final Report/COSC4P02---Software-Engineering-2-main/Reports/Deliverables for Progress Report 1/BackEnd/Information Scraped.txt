@@ -1,0 +1,1326 @@
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P96" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Italian Culture and Society');return document.MM_returnValue;">
+             2P96
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P98" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Italians in Canada and Italy-Canada Relations');return document.MM_returnValue;">
+             2P98
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P99" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Medieval and Renaissance Tales');return document.MM_returnValue;">
+             2P99
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2Q90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Digital Archives: Construction, Scholarship and Functionality');return document.MM_returnValue;">
+             2Q90
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_3F50" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Reading the Italian Medieval and Renaissance City');return document.MM_returnValue;">
+             3F50
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_3P92" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Petrarch and Boccaccio');return document.MM_returnValue;">
+             3P92
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_3P93" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Dante\'s Inferno');return document.MM_returnValue;">
+             3P93
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_3Q90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Translating and Interpreting in the Community: An Internship');return document.MM_returnValue;">
+             3Q90
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_3Q91" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Grammar, Composition and Conversation');return document.MM_returnValue;">
+             3Q91
+            </a>
+            and one credit ITAL or
+            <a href="mllc.html" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Modern Languages, Literatures and Culture');return document.MM_returnValue;">
+             MLLC
+            </a>
+            numbered 2
+            <i>
+             (alpha)
+            </i>
+            90 or above (see
+            <a href="#Note1-4" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('View program note 4');return document.MM_returnValue;">
+             program notes 4
+            </a>
+            and
+            <a href="#Note1-5" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('View program note 5');return document.MM_returnValue;">
+             5
+            </a>
+            )
+           </td>
+          </tr>
+          <tr>
+           <td align="right" valign="top" width="30">
+            <img alt="-" border="0" height="13" src="/webcal/images/b_listbullet.gif" style="padding-top: 3px;" width="11"/>
+           </td>
+           <td class="calnormal" valign="top">
+            two elective credits
+           </td>
+          </tr>
+         </table>
+        </td>
+        <td>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2" valign="bottom">
+         <a name="sec6">
+          Combined Major Program
+         </a>
+        </td>
+        <td valign="bottom">
+         <a href="#top" onmouseout="MM_displayStatusMsg(''); return true;" onmouseover="MM_displayStatusMsg('Jump to the top of the current document.'); return true;">
+          <img alt="Go to top of document" border="0" height="18" src="/webcal/images/i_top_red.gif" width="19"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+         Students may take a Combined Major in Italian and a second discipline. For requirements in the other discipline, the student should consult the relevant department/centre. It should be noted that not all departments/centres provide a combined major option.
+         <b>
+          Honours
+         </b>
+         Year 1
+         <table border="0" cellpadding="2" cellspacing="0" class="webcallist">
+          <tr>
+           <td align="right" valign="top" width="30">
+            <img alt="-" border="0" height="13" src="/webcal/images/b_listbullet.gif" style="padding-top: 3px;" width="11"/>
+           </td>
+           <td class="calnormal" valign="top">
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_1F00" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Introductory Italian');return document.MM_returnValue;">
+             ITAL 1F00
+            </a>
+            or
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_1F90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Intermediate Italian');return document.MM_returnValue;">
+             1F90
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td align="right" valign="top" width="30">
+            <img alt="-" border="0" height="13" src="/webcal/images/b_listbullet.gif" style="padding-top: 3px;" width="11"/>
+           </td>
+           <td class="calnormal" valign="top">
+            one credit from the co-major discipline
+           </td>
+          </tr>
+          <tr>
+           <td align="right" valign="top" width="30">
+            <img alt="-" border="0" height="13" src="/webcal/images/b_listbullet.gif" style="padding-top: 3px;" width="11"/>
+           </td>
+           <td class="calnormal" valign="top">
+            one
+            <a href="https://brocku.ca/webcal/2021/undergrad/gens.html" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('View Sciences page');return document.MM_returnValue;">
+             Sciences
+            </a>
+            context credit
+           </td>
+          </tr>
+          <tr>
+           <td align="right" valign="top" width="30">
+            <img alt="-" border="0" height="13" src="/webcal/images/b_listbullet.gif" style="padding-top: 3px;" width="11"/>
+           </td>
+           <td class="calnormal" valign="top">
+            one
+            <a href="https://brocku.ca/webcal/2021/undergrad/sosc.html" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('View Social Sciences page');return document.MM_returnValue;">
+             Social Sciences
+            </a>
+            context credit
+           </td>
+          </tr>
+          <tr>
+           <td align="right" valign="top" width="30">
+            <img alt="-" border="0" height="13" src="/webcal/images/b_listbullet.gif" style="padding-top: 3px;" width="11"/>
+           </td>
+           <td class="calnormal" valign="top">
+            one elective credit
+           </td>
+          </tr>
+         </table>
+         Year 2
+         <table border="0" cellpadding="2" cellspacing="0" class="webcallist">
+          <tr>
+           <td align="right" valign="top" width="30">
+            <img alt="-" border="0" height="13" src="/webcal/images/b_listbullet.gif" style="padding-top: 3px;" width="11"/>
+           </td>
+           <td class="calnormal" valign="top">
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_1F90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Intermediate Italian');return document.MM_returnValue;">
+             ITAL 1F90
+            </a>
+            or
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2F00" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Language, Literature and Culture');return document.MM_returnValue;">
+             2F00
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td align="right" valign="top" width="30">
+            <img alt="-" border="0" height="13" src="/webcal/images/b_listbullet.gif" style="padding-top: 3px;" width="11"/>
+           </td>
+           <td class="calnormal" valign="top">
+            one credit from
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P80" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Italian Cinema');return document.MM_returnValue;">
+             ITAL 2P80
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Translation and Language Practice');return document.MM_returnValue;">
+             2P90
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P92" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Early to High Renaissance Art and Architecture');return document.MM_returnValue;">
+             2P92
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P94" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Linguistic and Cultural Regionalism in Italy');return document.MM_returnValue;">
+             2P94
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P95" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Modern Culture and Civilization');return document.MM_returnValue;">
+             2P95
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P96" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Italian Culture and Society');return document.MM_returnValue;">
+             2P96
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P98" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Italians in Canada and Italy-Canada Relations');return document.MM_returnValue;">
+             2P98
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P99" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Medieval and Renaissance Tales');return document.MM_returnValue;">
+             2P99
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2Q90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Digital Archives: Construction, Scholarship and Functionality');return document.MM_returnValue;">
+             2Q90
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2Q95" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Queer Stories in Italy and the West');return document.MM_returnValue;">
+             2Q95
+            </a>
+            or one and one-half credits from
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P80" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Italian Cinema');return document.MM_returnValue;">
+             ITAL 2P80
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Translation and Language Practice');return document.MM_returnValue;">
+             2P90
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P92" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Early to High Renaissance Art and Architecture');return document.MM_returnValue;">
+             2P92
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P94" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Linguistic and Cultural Regionalism in Italy');return document.MM_returnValue;">
+             2P94
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P96" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Italian Culture and Society');return document.MM_returnValue;">
+             2P96
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2Q90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Digital Archives: Construction, Scholarship and Functionality');return document.MM_returnValue;">
+             2Q90
+            </a>
+            and one-half
+            <a href="mllc.html" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Modern Languages, Literatures and Culture');return document.MM_returnValue;">
+             MLLC
+            </a>
+            or ITAL credit numbered 2
+            <i>
+             (alpha)
+            </i>
+            00 or above (see
+            <a href="#Note1-5" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('View program note 5');return document.MM_returnValue;">
+             program note 5
+            </a>
+            )
+           </td>
+          </tr>
+          <tr>
+           <td align="right" valign="top" width="30">
+            <img alt="-" border="0" height="13" src="/webcal/images/b_listbullet.gif" style="padding-top: 3px;" width="11"/>
+           </td>
+           <td class="calnormal" valign="top">
+            two credits from the co-major discipline
+           </td>
+          </tr>
+          <tr>
+           <td align="right" valign="top" width="30">
+            <img alt="-" border="0" height="13" src="/webcal/images/b_listbullet.gif" style="padding-top: 3px;" width="11"/>
+           </td>
+           <td class="calnormal" valign="top">
+            one elective credit
+           </td>
+          </tr>
+         </table>
+         Year 3
+         <table border="0" cellpadding="2" cellspacing="0" class="webcallist">
+          <tr>
+           <td align="right" valign="top" width="30">
+            <img alt="-" border="0" height="13" src="/webcal/images/b_listbullet.gif" style="padding-top: 3px;" width="11"/>
+           </td>
+           <td class="calnormal" valign="top">
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2F00" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Language, Literature and Culture');return document.MM_returnValue;">
+             ITAL 2F00
+            </a>
+            and one credit from
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P80" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Italian Cinema');return document.MM_returnValue;">
+             ITAL 2P80
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Translation and Language Practice');return document.MM_returnValue;">
+             2P90
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P92" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Early to High Renaissance Art and Architecture');return document.MM_returnValue;">
+             2P92
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P94" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Linguistic and Cultural Regionalism in Italy');return document.MM_returnValue;">
+             2P94
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P95" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Modern Culture and Civilization');return document.MM_returnValue;">
+             2P95
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P96" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Italian Culture and Society');return document.MM_returnValue;">
+             2P96
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P98" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Italians in Canada and Italy-Canada Relations');return document.MM_returnValue;">
+             2P98
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P99" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Medieval and Renaissance Tales');return document.MM_returnValue;">
+             2P99
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2Q90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Digital Archives: Construction, Scholarship and Functionality');return document.MM_returnValue;">
+             2Q90
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2Q95" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Queer Stories in Italy and the West');return document.MM_returnValue;">
+             2Q95
+            </a>
+            or one and one-half credits from
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P80" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Italian Cinema');return document.MM_returnValue;">
+             ITAL 2P80
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Translation and Language Practice');return document.MM_returnValue;">
+             2P90
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P92" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Early to High Renaissance Art and Architecture');return document.MM_returnValue;">
+             2P92
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P94" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Linguistic and Cultural Regionalism in Italy');return document.MM_returnValue;">
+             2P94
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P96" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Italian Culture and Society');return document.MM_returnValue;">
+             2P96
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P98" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Italians in Canada and Italy-Canada Relations');return document.MM_returnValue;">
+             2P98
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P99" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Medieval and Renaissance Tales');return document.MM_returnValue;">
+             2P99
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2Q90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Digital Archives: Construction, Scholarship and Functionality');return document.MM_returnValue;">
+             2Q90
+            </a>
+            and one-half
+            <a href="mllc.html" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Modern Languages, Literatures and Culture');return document.MM_returnValue;">
+             MLLC
+            </a>
+            or ITAL credit numbered 2
+            <i>
+             (alpha)
+            </i>
+            90 or above (see
+            <a href="#Note1-4" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('View program note 4');return document.MM_returnValue;">
+             program notes 4
+            </a>
+            and
+            <a href="#Note1-5" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('View program note 5');return document.MM_returnValue;">
+             5
+            </a>
+            )
+           </td>
+          </tr>
+          <tr>
+           <td align="right" valign="top" width="30">
+            <img alt="-" border="0" height="13" src="/webcal/images/b_listbullet.gif" style="padding-top: 3px;" width="11"/>
+           </td>
+           <td class="calnormal" valign="top">
+            two credits from the co-major discipline
+           </td>
+          </tr>
+          <tr>
+           <td align="right" valign="top" width="30">
+            <img alt="-" border="0" height="13" src="/webcal/images/b_listbullet.gif" style="padding-top: 3px;" width="11"/>
+           </td>
+           <td class="calnormal" valign="top">
+            one elective credit
+           </td>
+          </tr>
+         </table>
+         Year 4
+         <table border="0" cellpadding="2" cellspacing="0" class="webcallist">
+          <tr>
+           <td align="right" valign="top" width="30">
+            <img alt="-" border="0" height="13" src="/webcal/images/b_listbullet.gif" style="padding-top: 3px;" width="11"/>
+           </td>
+           <td class="calnormal" valign="top">
+            One and one-half credits from
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_3F50" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Reading the Italian Medieval and Renaissance City');return document.MM_returnValue;">
+             ITAL 3F50
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_3P92" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Petrarch and Boccaccio');return document.MM_returnValue;">
+             3P92
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_3P93" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Dante\'s Inferno');return document.MM_returnValue;">
+             3P93
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_3Q90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Translating and Interpreting in the Community: An Internship');return document.MM_returnValue;">
+             3Q90
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_3Q91" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Grammar, Composition and Conversation');return document.MM_returnValue;">
+             3Q91
+            </a>
+            , and one-half
+            <a href="mllc.html" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Modern Languages, Literatures and Culture');return document.MM_returnValue;">
+             MLLC
+            </a>
+            or ITAL credit numbered 3
+            <i>
+             (alpha)
+            </i>
+            90 or above (see
+            <a href="#Note1-5" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('View program note 5');return document.MM_returnValue;">
+             program note 5
+            </a>
+            )
+           </td>
+          </tr>
+          <tr>
+           <td align="right" valign="top" width="30">
+            <img alt="-" border="0" height="13" src="/webcal/images/b_listbullet.gif" style="padding-top: 3px;" width="11"/>
+           </td>
+           <td class="calnormal" valign="top">
+            two credits from the co-major discipline
+           </td>
+          </tr>
+          <tr>
+           <td align="right" valign="top" width="30">
+            <img alt="-" border="0" height="13" src="/webcal/images/b_listbullet.gif" style="padding-top: 3px;" width="11"/>
+           </td>
+           <td class="calnormal" valign="top">
+            one elective credit
+           </td>
+          </tr>
+         </table>
+         <b>
+          Pass
+         </b>
+         Satisfactory completion of the first three years of the Honours program entitles a student to apply for a Pass degree.
+        </td>
+        <td>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2" valign="bottom">
+         <a name="sec7">
+          Concentration Program
+         </a>
+        </td>
+        <td valign="bottom">
+         <a href="#top" onmouseout="MM_displayStatusMsg(''); return true;" onmouseover="MM_displayStatusMsg('Jump to the top of the current document.'); return true;">
+          <img alt="Go to top of document" border="0" height="18" src="/webcal/images/i_top_red.gif" width="19"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+         <b>
+          Concentration in Italian Language and Romance Linguistics
+         </b>
+         Students may earn a Concentration in Italian Languages and Romance Linguistics by successfully completing the following courses as part of the academic work leading to a BA (Honours) in Italian Studies:
+         <table border="0" cellpadding="2" cellspacing="0" class="webcallist">
+          <tr>
+           <td align="right" valign="top" width="30">
+            <img alt="-" border="0" height="13" src="/webcal/images/b_listbullet.gif" style="padding-top: 3px;" width="11"/>
+           </td>
+           <td class="calnormal" valign="top">
+            Two credits from
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_1F90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Intermediate Italian');return document.MM_returnValue;">
+             ITAL 1F90
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2F00" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Language, Literature and Culture');return document.MM_returnValue;">
+             2F00
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Translation and Language Practice');return document.MM_returnValue;">
+             2P90
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_3Q91" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Grammar, Composition and Conversation');return document.MM_returnValue;">
+             3Q91
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td align="right" valign="top" width="30">
+            <img alt="-" border="0" height="13" src="/webcal/images/b_listbullet.gif" style="padding-top: 3px;" width="11"/>
+           </td>
+           <td class="calnormal" valign="top">
+            one credit from
+            <a href="/webcal/2021/undergrad/fren.html#FREN_1F00" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('French I');return document.MM_returnValue;">
+             FREN 1F00
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/fren.html#FREN_1F50" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('French II');return document.MM_returnValue;">
+             1F50
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/fren.html#FREN_1F90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('French III');return document.MM_returnValue;">
+             1F90
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/fren.html#FREN_2F00" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Grammar and Composition');return document.MM_returnValue;">
+             2F00
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/mllc.html#GERM_1F00" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Introductory Language');return document.MM_returnValue;">
+             GERM 1F00
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/clas.html#LATI_1F00" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Language (Introductory)');return document.MM_returnValue;">
+             LATI 1F00
+            </a>
+            , 1F90,
+            <a href="/webcal/2021/undergrad/HILA.html#PORT_1F00" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Introductory Portuguese Language');return document.MM_returnValue;">
+             PORT 1F00
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/HILA.html#SPAN_1F00" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Introductory Spanish Language');return document.MM_returnValue;">
+             SPAN 1F00
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/HILA.html#SPAN_1F90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Intermediate Spanish Language');return document.MM_returnValue;">
+             1F90
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td align="right" valign="top" width="30">
+            <img alt="-" border="0" height="13" src="/webcal/images/b_listbullet.gif" style="padding-top: 3px;" width="11"/>
+           </td>
+           <td class="calnormal" valign="top">
+            <a href="/webcal/2021/undergrad/mllc.html#MLLC_2P95" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Introduction to Romance Linguistics');return document.MM_returnValue;">
+             MLLC 2P95
+            </a>
+            and two credits from
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Translation and Language Practice');return document.MM_returnValue;">
+             ITAL 2P90
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P94" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Linguistic and Cultural Regionalism in Italy');return document.MM_returnValue;">
+             2P94
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P96" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Italian Culture and Society');return document.MM_returnValue;">
+             2P96
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_3Q91" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Grammar, Composition and Conversation');return document.MM_returnValue;">
+             3Q91
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/apli.html#LING_1P94" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Introduction to General Linguistics I');return document.MM_returnValue;">
+             LING 1P94
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/apli.html#LING_1P95" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Introduction to General Linguistics II');return document.MM_returnValue;">
+             1P95
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/apli.html#LING_2P93" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Language and Power');return document.MM_returnValue;">
+             2P93
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/fren.html#FREN_2P10" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Introduction to the Linguistic Study of French');return document.MM_returnValue;">
+             FREN 2P10
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/fren.html#FREN_2P57" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Phonetics and Phonology');return document.MM_returnValue;">
+             2P57
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/fren.html#FREN_3P90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Sociolinguistics of Francophone World');return document.MM_returnValue;">
+             3P90
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/HILA.html#SPAN_3P99" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Hispanic Linguistics');return document.MM_returnValue;">
+             SPAN 3P99
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td align="right" valign="top" width="30">
+            <img alt="-" border="0" height="13" src="/webcal/images/b_listbullet.gif" style="padding-top: 3px;" width="11"/>
+           </td>
+           <td class="calnormal" valign="top">
+            one credit from
+            <a href="/webcal/2021/undergrad/mllc.html#MLLC_3P80" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Comparative Analysis of Romance Languages');return document.MM_returnValue;">
+             MLLC 3P80
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/mllc.html#MLLC_3V80-3V89" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Special Topics in Comparative Romance Linguistics');return document.MM_returnValue;">
+             3V80-3V89
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/mllc.html#MLLC_4P10" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Independent Study');return document.MM_returnValue;">
+             4P10
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/mllc.html#MLLC_4P11" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Major Research Paper');return document.MM_returnValue;">
+             4P11
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/mllc.html#MLLC_4Q80" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Historical Romance Linguistics');return document.MM_returnValue;">
+             4Q80
+            </a>
+           </td>
+          </tr>
+         </table>
+        </td>
+        <td>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2" valign="bottom">
+         <a name="sec8">
+          Minor in Italian Studies
+         </a>
+        </td>
+        <td valign="bottom">
+         <a href="#top" onmouseout="MM_displayStatusMsg(''); return true;" onmouseover="MM_displayStatusMsg('Jump to the top of the current document.'); return true;">
+          <img alt="Go to top of document" border="0" height="18" src="/webcal/images/i_top_red.gif" width="19"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+         Students in other disciplines may obtain a Minor in Italian within their degree program by completing the following courses with a minimum 60 percent overall average:
+         <table border="0" cellpadding="2" cellspacing="0" class="webcallist">
+          <tr>
+           <td align="right" valign="top" width="30">
+            <img alt="-" border="0" height="13" src="/webcal/images/b_listbullet.gif" style="padding-top: 3px;" width="11"/>
+           </td>
+           <td class="calnormal" valign="top">
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_1F90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Intermediate Italian');return document.MM_returnValue;">
+             ITAL 1F90
+            </a>
+            and
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2F00" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Language, Literature and Culture');return document.MM_returnValue;">
+             2F00
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td align="right" valign="top" width="30">
+            <img alt="-" border="0" height="13" src="/webcal/images/b_listbullet.gif" style="padding-top: 3px;" width="11"/>
+           </td>
+           <td class="calnormal" valign="top">
+            two credits from
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_1F00" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Introductory Italian');return document.MM_returnValue;">
+             ITAL 1F00
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P80" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Italian Cinema');return document.MM_returnValue;">
+             2P80
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Translation and Language Practice');return document.MM_returnValue;">
+             2P90
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2P92" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Early to High Renaissance Art and Architecture');return document.MM_returnValue;">
+             2P92
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2Q90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Digital Archives: Construction, Scholarship and Functionality');return document.MM_returnValue;">
+             2Q90
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_3Q91" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Grammar, Composition and Conversation');return document.MM_returnValue;">
+             3Q91
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_3F50" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Reading the Italian Medieval and Renaissance City');return document.MM_returnValue;">
+             3F50
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_3P93" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Dante\'s Inferno');return document.MM_returnValue;">
+             3P93
+            </a>
+           </td>
+          </tr>
+         </table>
+        </td>
+        <td>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2" valign="bottom">
+         <a name="sec9">
+          Minor in Italian Language and Romance Linguistics
+         </a>
+        </td>
+        <td valign="bottom">
+         <a href="#top" onmouseout="MM_displayStatusMsg(''); return true;" onmouseover="MM_displayStatusMsg('Jump to the top of the current document.'); return true;">
+          <img alt="Go to top of document" border="0" height="18" src="/webcal/images/i_top_red.gif" width="19"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+         <table border="0" cellpadding="2" cellspacing="0" class="webcallist">
+          <tr>
+           <td align="right" valign="top" width="30">
+            <img alt="-" border="0" height="13" src="/webcal/images/b_listbullet.gif" style="padding-top: 3px;" width="11"/>
+           </td>
+           <td class="calnormal" valign="top">
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_1F90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Intermediate Italian');return document.MM_returnValue;">
+             ITAL 1F90
+            </a>
+            and
+            <a href="/webcal/2021/undergrad/ital.html#ITAL_2F00" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Language, Literature and Culture');return document.MM_returnValue;">
+             2F00
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td align="right" valign="top" width="30">
+            <img alt="-" border="0" height="13" src="/webcal/images/b_listbullet.gif" style="padding-top: 3px;" width="11"/>
+           </td>
+           <td class="calnormal" valign="top">
+            one and one-half credits from ITAL1F00, 2P90, 2P94, 2P96,
+            <a href="/webcal/2021/undergrad/mllc.html#MLLC_2P95" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Introduction to Romance Linguistics');return document.MM_returnValue;">
+             MLLC 2P95
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/mllc.html#MLLC_3P80" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Comparative Analysis of Romance Languages');return document.MM_returnValue;">
+             3P80
+            </a>
+            , 4P80,
+            <a href="/webcal/2021/undergrad/clas.html#LATI_1F00" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Language (Introductory)');return document.MM_returnValue;">
+             LATI 1F00
+            </a>
+           </td>
+          </tr>
+          <tr>
+           <td align="right" valign="top" width="30">
+            <img alt="-" border="0" height="13" src="/webcal/images/b_listbullet.gif" style="padding-top: 3px;" width="11"/>
+           </td>
+           <td class="calnormal" valign="top">
+            one-half credit from
+            <a href="/webcal/2021/undergrad/mllc.html#MLLC_2P95" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Introduction to Romance Linguistics');return document.MM_returnValue;">
+             MLLC 2P95
+            </a>
+            ,
+            <a href="/webcal/2021/undergrad/mllc.html#MLLC_3P80" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Comparative Analysis of Romance Languages');return document.MM_returnValue;">
+             3P80
+            </a>
+            , 4P80
+           </td>
+          </tr>
+         </table>
+        </td>
+        <td>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2" valign="bottom">
+         <a name="sec10">
+          Course Descriptions
+         </a>
+        </td>
+        <td valign="bottom">
+         <a href="#top" onmouseout="MM_displayStatusMsg(''); return true;" onmouseover="MM_displayStatusMsg('Jump to the top of the current document.'); return true;">
+          <img alt="Go to top of document" border="0" height="18" src="/webcal/images/i_top_red.gif" width="19"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+         <b>
+          Note that not all courses are offered in every session. Refer to the applicable term timetable for details.
+         </b>
+         <b>
+          # Indicates a cross listed course
+         </b>
+         <b>
+          * Indicates primary offering of a cross listed course
+         </b>
+        </td>
+        <td>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2" valign="bottom">
+         <a name="sec11">
+          Prerequisites and Restrictions
+         </a>
+        </td>
+        <td valign="bottom">
+         <a href="#top" onmouseout="MM_displayStatusMsg(''); return true;" onmouseover="MM_displayStatusMsg('Jump to the top of the current document.'); return true;">
+          <img alt="Go to top of document" border="0" height="18" src="/webcal/images/i_top_red.gif" width="19"/>
+         </a>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="2">
+         Students must check to ensure that prerequisites are met. Students may be deregistered, at the request of the instructor, from any course for which prerequisites and/or restrictions have not been met.
+         <p class="courseheading">
+          ITALIAN COURSES
+         </p>
+         <a name="ITAL_1F00">
+          ITAL 1F00
+         </a>
+         Introductory Italian
+            Beginner's course for students with no formal knowledge of Standard Italian. Acquisition of reading and oral skills, basic grammar, conversation and composition.
+            Lectures, 3 hours per week.
+            Note: students who have taken a previous Italian course in high school will not be permitted to take this course. Students must submit an official high school transcript to the instructor in order to demonstrate that they meet course requirements before the end of the second week of classes. Failure to do so will result in de-registration from the course. Experiential Learning component is available for those students interested.
+         <a name="ITAL_1F90">
+          ITAL 1F90
+         </a>
+         Intermediate Italian
+            Review of basic grammar; composition and oral practice. Discussions based on cultural topics, cities and the art of Italy.
+            Lectures, tutorial, 4 hours per week.
+            Prerequisite(s):
+         <a href="/webcal/2021/undergrad/ital.html#ITAL_1F00" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Introductory Italian');return document.MM_returnValue;">
+          ITAL 1F00
+         </a>
+         , (1F01), one or more high school Italian credits or permission of instructor.
+            Note: experiential Learning component is available for those students interested.
+         <a name="ITAL_1P91">
+          ITAL 1P91
+         </a>
+         Italian for International Exchange Students
+            Acquisition of reading and oral skills, grammar, conversation and composition. Cultural topics, cities and the art of Italy.
+            Restriction: permission of instructor.
+            Note: open to international exchange students and non-native speakers of Italian.
+         <a name="ITAL_1P96">
+          ITAL 1P96
+         </a>
+         Italian Culture and Civilization
+            Artistic heritage of Italy and the intellectual, political and social forces that have shaped the mentality and way of life of the Italians. Selected texts and multi-media material.
+            Lectures, 3 hours per week. Blended.
+            Restriction: not open to ITAL (single or combined) majors and minors.
+            Note: given in English.
+            Completion of this course will replace previous assigned grade and credit obtained ITAL 1P95 and INTC 1P96.
+         <a name="ITAL_2F00">
+          ITAL 2F00
+         </a>
+         Language, Literature and Culture
+            Grammar review; oral and written practice. Introduction to the study of film, literary texts and principles of criticism.
+            Lectures, tutorial, 4 hours per week.
+            Prerequisite(s):
+         <a href="/webcal/2021/undergrad/ital.html#ITAL_1F90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Intermediate Italian');return document.MM_returnValue;">
+          ITAL 1F90
+         </a>
+         or permission of instructor.
+         <a name="ITAL_2P80">
+          *ITAL 2P80
+         </a>
+         Italian Cinema
+            (also offered as
+         <a href="/webcal/2021/undergrad/stac.html#STAC_2P80" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Italian Cinema and its Influences');return document.MM_returnValue;">
+          STAC 2P80
+         </a>
+         )
+            Major film directors and cultural trends in Italian cinema. Influence of Italian film on North American directors. Films studied include those by such directors as De Sica, Rossellini, Fellini, Antonioni, Bertolucci, Wertmüller, Tornatore, Amelio, Moretti and Sorrentino.
+            Lectures, 3 hours per week, plus film lab.
+            Note: given in English. No knowledge of Italian required.
+         <a name="ITAL_2P90">
+          ITAL 2P90
+         </a>
+         Translation and Language Practice
+            Translation of selected material from magazine articles, essays and various texts focusing on interference between English and Italian. Introduction to business correspondence.
+            Lectures, 3 hours per week.
+            Prerequisite(s):
+         <a href="/webcal/2021/undergrad/ital.html#ITAL_1F90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Intermediate Italian');return document.MM_returnValue;">
+          ITAL 1F90
+         </a>
+         or permission of instructor.
+         <a name="ITAL_2P92">
+          *ITAL 2P92
+         </a>
+         Early to High Renaissance Art and Architecture
+            (also offered as
+         <a href="/webcal/2021/undergrad/mars.html#MARS_2P92" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Early to High Renaissance Art and Architecture');return document.MM_returnValue;">
+          MARS 2P92
+         </a>
+         and
+         <a href="/webcal/2021/undergrad/visa.html#VISA_2P92" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Early to High Renaissance Art and Architecture');return document.MM_returnValue;">
+          VISA 2P92
+         </a>
+         )
+            Major monuments, buildings and art works of the period from several critical perspectives including the humanist influence on the arts in Florence and Rome, the issue of patronage and the question of the artist's cultural status.
+            Lectures, seminar, 3 hours per week.
+            Prerequisite(s): one of
+         <a href="/webcal/2021/undergrad/ital.html#ITAL_1F90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Intermediate Italian');return document.MM_returnValue;">
+          ITAL 1F90
+         </a>
+         ,
+         <a href="/webcal/2021/undergrad/mars.html#MARS_1F90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Medieval and Renaissance Civilizations');return document.MM_returnValue;">
+          MARS 1F90
+         </a>
+         ,
+         <a href="/webcal/2021/undergrad/visa.html#VISA_1Q98" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Introduction to Visual Culture');return document.MM_returnValue;">
+          VISA 1Q98
+         </a>
+         and
+         <a href="/webcal/2021/undergrad/visa.html#VISA_1Q99" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Introduction to the History of Western Art');return document.MM_returnValue;">
+          1Q99
+         </a>
+         or permission of instructor.
+            Note: given in English.
+         <a name="ITAL_2P94">
+          ITAL 2P94
+         </a>
+         Linguistic and Cultural Regionalism in Italy
+            Cultural, socio-political and economic issues and conditions that characterize the regions of Italy. Emphasis on regional linguistic variants and dialects, and the establishment of a linguistic standard.
+            Lectures, 3 hours per week.
+            Note: given in English.
+         <a href="/webcal/2021/undergrad/ital.html#ITAL_1F90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Intermediate Italian');return document.MM_returnValue;">
+          ITAL 1F90
+         </a>
+         recommended.
+         <a name="ITAL_2P95">
+          ITAL 2P95
+         </a>
+         Modern Culture and Civilization
+            Historical changes and key issues in 19th- and 20th-century Italy focusing on Italian unification, Fascism and modern Italy. Arts and literature representative of the period.
+            Lectures, seminar, 3 hours per week.
+            Note: given in English.
+         <a name="ITAL_2P96">
+          ITAL 2P96
+         </a>
+         Italian Culture and Society
+            Overview of the intellectual, political and social forces that have shaped modern-day Italy. Focus on historical periods and how these are reflected in art, literature, architecture and society. Selected texts and multi-media material.
+            Lectures, 3 hours per week. Blended.
+            Restriction: open to ITAL (single or combined) majors and minors.
+            Note: given in English.
+         <a name="ITAL_2P97">
+          #ITAL 2P97
+         </a>
+         History of the Early Roman Empire
+            (also offered as
+         <a href="/webcal/2021/undergrad/clas.html#CLAS_2P97" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('History of the Early Roman Empire');return document.MM_returnValue;">
+          CLAS 2P97
+         </a>
+         and
+         <a href="/webcal/2021/undergrad/hist.html#HIST_2P97" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('History of the Early Roman Empire');return document.MM_returnValue;">
+          HIST 2P97
+         </a>
+         )
+         <a href="https://brocku.ca/webcal/2021/undergrad/hist.html" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('View History page');return document.MM_returnValue;">
+          History
+         </a>
+         of Rome from the Battle of Actium to the death of Marcus Aurelius (AD 180) emphasizing social and political developments.
+            Lectures, seminar, 3 hours per week.
+            Note:
+         <a href="/webcal/2021/undergrad/clas.html#CLAS_2Q96" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('History of the Roman Republic');return document.MM_returnValue;">
+          CLAS 2Q96
+         </a>
+         is recommended.
+            Completion of this course will replace previous assigned grade and credit obtained in CLAS (
+         <a href="hist.html" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('History');return document.MM_returnValue;">
+          HIST
+         </a>
+         /ITAL) 3P06.
+         <a name="ITAL_2P98">
+          #ITAL 2P98
+         </a>
+         Italians in Canada and Italy-Canada Relations
+            (also offered as
+         <a href="/webcal/2021/undergrad/cana.html#CANA_2P98" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Italians in Canada and Italy-Canada Relations');return document.MM_returnValue;">
+          CANA 2P98
+         </a>
+         )
+         <a href="https://brocku.ca/webcal/2021/undergrad/hist.html" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('View History page');return document.MM_returnValue;">
+          History
+         </a>
+         of Italian immigration in Canada focusing on Ontario. Italian-Canadian literature including such writers as Nino Ricci and Mary Di Michele. Cultural and economic relations between Italy and Canada including World War II internment experience. Italian contribution to the arts in Canada (art, music, film, literature).
+            Lectures, 3 hours per week.
+            Restriction: students must have a minimum of 5.0 overall credits or permission of instructor.
+            Note: given in English. No knowledge of Italian required.
+         <a name="ITAL_2P99">
+          #ITAL 2P99
+         </a>
+         Medieval and Renaissance Tales
+            (also offered as
+         <a href="/webcal/2021/undergrad/mars.html#MARS_2P99" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Medieval and Renaissance Tales');return document.MM_returnValue;">
+          MARS 2P99
+         </a>
+         )
+            Evolution and development of Novella Collections in Europe, emphasizing the Frame Tale function. Selections from Boccaccio, Chaucer, Marguerite de Navarre, Miguel de Cervantes, Maria de Zayas.
+            Lecture, seminar, 3 hours per week.
+         <a name="ITAL_2Q90">
+          *ITAL 2Q90
+         </a>
+         Digital Archives: Construction, Scholarship and Functionality
+            (also offered as
+         <a href="/webcal/2021/undergrad/iasc.html#IASC_2Q90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Digital Archives: Construction, Scholarship and Functionality');return document.MM_returnValue;">
+          IASC 2Q90
+         </a>
+         and
+         <a href="/webcal/2021/undergrad/stac.html#STAC_2Q90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Digital Archives: Construction, Scholarship and Functionality');return document.MM_returnValue;">
+          STAC 2Q90
+         </a>
+         )
+            Digital archives, their functionality, development and role in Humanities research. Sites studied will range from library collections to single authors and artist projects, including museum and audio archives. Engagement in the creation of a digital archive.
+            Lectures, lab, 3 hours per week.
+            Restriction: students must have a minimum of 5.0 overall credits or permission of instructor.
+            Note: given in English. No knowledge of Italian required.
+         <a name="ITAL_2Q95">
+          *ITAL 2Q95
+         </a>
+         Queer Stories in Italy and the West
+            (also offered as
+         <a href="/webcal/2021/undergrad/wise.html#WGST_2Q95" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Queer Stories in Italy and the West');return document.MM_returnValue;">
+          WGST 2Q95
+         </a>
+         )
+            Expression and treatment of sexual and gender diversity in Italy through theories of gender and sexuality, literature, theatre, and film. Themes include colonialism, activism, migration, and the tensions within Italy’s social movements. Exploration of topics through comparisons and connections between Italy and other parts of the Western world.
+            Lectures, 3 hours per week.
+            Restriction: students must have a minimum of 4.0 overall credits or permission of instructor.
+            Note: given in English
+         <a name="ITAL_2Q96">
+          #ITAL 2Q96
+         </a>
+         History of the Roman Republic
+            (also offered as
+         <a href="/webcal/2021/undergrad/clas.html#CLAS_2Q96" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('History of the Roman Republic');return document.MM_returnValue;">
+          CLAS 2Q96
+         </a>
+         and
+         <a href="/webcal/2021/undergrad/hist.html#HIST_2Q96" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('History of the Roman Republic');return document.MM_returnValue;">
+          HIST 2Q96
+         </a>
+         )
+         <a href="https://brocku.ca/webcal/2021/undergrad/hist.html" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('View History page');return document.MM_returnValue;">
+          History
+         </a>
+         of Rome to the Battle of Actium (31 BC), emphasis on social and political developments from the Gracchi to Julius Caesar.
+            Lectures, seminar, 3 hours per week.
+            Note:
+         <a href="/webcal/2021/undergrad/clas.html#CLAS_1P92" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('The Grandeur of Ancient Rome');return document.MM_returnValue;">
+          CLAS 1P92
+         </a>
+         is recommended.
+            Completion of this course will replace previous assigned grade and credit obtained in CLAS (
+         <a href="hist.html" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('History');return document.MM_returnValue;">
+          HIST
+         </a>
+         /ITAL) 3P05.
+         <a name="ITAL_3F50">
+          *ITAL 3F50
+         </a>
+         Reading the Italian Medieval and Renaissance City
+            (also offered as
+         <a href="/webcal/2021/undergrad/hist.html#HIST_3F50" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Reading the Italian Medieval and Renaissance City');return document.MM_returnValue;">
+          HIST 3F50
+         </a>
+         ,
+         <a href="/webcal/2021/undergrad/mars.html#MARS_3F50" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Reading the Italian Medieval and Renaissance City');return document.MM_returnValue;">
+          MARS 3F50
+         </a>
+         and
+         <a href="/webcal/2021/undergrad/visa.html#VISA_3F50" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Reading the Italian Medieval &amp; Renaissance City');return document.MM_returnValue;">
+          VISA 3F50
+         </a>
+         )
+            Exploring key monuments, churches, museums and urban sites. Concept of the city as expressed through art, literature and architecture from Medieval to Baroque times. Historical and geographical influences and factors in shaping the city, its culture and traditions. Cities include Rome, Assisi, Florence and Siena.
+            Prerequisite(s): one ITAL,
+         <a href="hist.html" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('History');return document.MM_returnValue;">
+          HIST
+         </a>
+         ,
+         <a href="mars.html" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Medieval and Renaissance Studies');return document.MM_returnValue;">
+          MARS
+         </a>
+         or
+         <a href="visa.html" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Visual Arts');return document.MM_returnValue;">
+          VISA
+         </a>
+         credit or permission of the course co-ordinator.
+            Note: offered in Italy during Spring session. Given in English. No knowledge of Italian is needed. Course begins in May on campus during the Spring Evening session (3-4 weeks). Departure for Italy: end of May or beginning of June for a two-week study tour of Rome, Assisi, Florence and Siena. Students are responsible for travel, accommodation and other expenses.
+            Completion of this course will replace previous assigned grade and credit obtained in ITAL (
+         <a href="visa.html" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Visual Arts');return document.MM_returnValue;">
+          VISA
+         </a>
+         ) 2F99 and ITAL (
+         <a href="mars.html" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Medieval and Renaissance Studies');return document.MM_returnValue;">
+          MARS
+         </a>
+         /
+         <a href="visa.html" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Visual Arts');return document.MM_returnValue;">
+          VISA
+         </a>
+         ) 3M50.
+         <a name="ITAL_3M20-3M24">
+          ITAL 3M20-3M24
+         </a>
+         Special Topics in Italian
+            Special topic in an area not represented by other courses.
+         <a name="ITAL_3P09">
+          #ITAL 3P09
+         </a>
+         The Later Roman Empire
+            (also offered as
+         <a href="/webcal/2021/undergrad/clas.html#CLAS_3P09" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('The Later Roman Empire');return document.MM_returnValue;">
+          CLAS 3P09
+         </a>
+         and
+         <a href="/webcal/2021/undergrad/mars.html#MARS_3P09" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('The Later Roman Empire');return document.MM_returnValue;">
+          MARS 3P09
+         </a>
+         )
+         <a href="https://brocku.ca/webcal/2021/undergrad/hist.html" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('View History page');return document.MM_returnValue;">
+          History
+         </a>
+         of the Roman Empire from the death of Marcus Aurelius to late Antiquity.
+            Lectures, 3 hours per week.
+            Prerequisite(s): one of
+         <a href="/webcal/2021/undergrad/clas.html#CLAS_1P92" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('The Grandeur of Ancient Rome');return document.MM_returnValue;">
+          CLAS 1P92
+         </a>
+         ,
+         <a href="/webcal/2021/undergrad/clas.html#CLAS_2P97" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('History of the Early Roman Empire');return document.MM_returnValue;">
+          2P97
+         </a>
+         ,
+         <a href="/webcal/2021/undergrad/clas.html#CLAS_3P23" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Art and Architecture of the Roman Empire');return document.MM_returnValue;">
+          3P23
+         </a>
+         .
+            Completion of this course will replace previous assigned grade and credit obtained in ITAL 4P55.
+         <a name="ITAL_3P22">
+          #ITAL 3P22
+         </a>
+         Art and Architecture of the Roman Republic and Early Empire
+            (also offered as
+         <a href="/webcal/2021/undergrad/clas.html#CLAS_3P22" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Art and Architecture of the Roman Republic and Early Empire');return document.MM_returnValue;">
+          CLAS 3P22
+         </a>
+         and
+         <a href="/webcal/2021/undergrad/visa.html#VISA_3P22" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Art and Architecture of the Roman Republic and Early Empire');return document.MM_returnValue;">
+          VISA 3P22
+         </a>
+         )
+            Art and architecture of the cultures of the Italian peninsula, in the first millennium BC, within the framework of cultural change and external influences.
+            Lectures, 3 hours per week.
+            Note: one credit from
+         <a href="clas.html" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Classics');return document.MM_returnValue;">
+          CLAS
+         </a>
+         or
+         <a href="/webcal/2021/undergrad/visa.html#VISA_1Q98" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Introduction to Visual Culture');return document.MM_returnValue;">
+          VISA 1Q98
+         </a>
+         and
+         <a href="/webcal/2021/undergrad/visa.html#VISA_1Q99" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Introduction to the History of Western Art');return document.MM_returnValue;">
+          1Q99
+         </a>
+         recommended.
+         <a name="ITAL_3P23">
+          #ITAL 3P23
+         </a>
+         Art and Architecture of the Roman Empire
+            (also offered as
+         <a href="/webcal/2021/undergrad/clas.html#CLAS_3P23" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Art and Architecture of the Roman Empire');return document.MM_returnValue;">
+          CLAS 3P23
+         </a>
+         and
+         <a href="/webcal/2021/undergrad/visa.html#VISA_3P23" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Art and Architecture of the Roman Empire');return document.MM_returnValue;">
+          VISA 3P23
+         </a>
+         )
+            Roman art and architecture from Augustus to Late Antiquity. Christian art and architecture and the influence of Roman aesthetics on the Renaissance and beyond.
+            Lectures, 3 hours per week.
+            Note: one credit from
+         <a href="clas.html" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Classics');return document.MM_returnValue;">
+          CLAS
+         </a>
+         or
+         <a href="/webcal/2021/undergrad/visa.html#VISA_1Q98" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Introduction to Visual Culture');return document.MM_returnValue;">
+          VISA 1Q98
+         </a>
+         and
+         <a href="/webcal/2021/undergrad/visa.html#VISA_1Q99" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Introduction to the History of Western Art');return document.MM_returnValue;">
+          1Q99
+         </a>
+         recommended.
+         <a name="ITAL_3P90">
+          ITAL 3P90
+         </a>
+         Literature of the 19th Century
+            Literary and cultural movements of the 1800s; socio-cultural issues in pre- and post-Unification Italy. Authors may include Manzoni, Foscolo, Leopardi and Verga.
+            Lectures, 3 hours per week.
+            Restriction: students must have a minimum of 5.0 overall credits or permission of instructor.
+            Note: given in English.
+         <a name="ITAL_3P92">
+          *ITAL 3P92
+         </a>
+         Petrarch and Boccaccio
+            (also offered as
+         <a href="/webcal/2021/undergrad/mars.html#MARS_3P92" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Petrarch and Boccaccio');return document.MM_returnValue;">
+          MARS 3P92
+         </a>
+         )
+            Literature, arts and culture of the Middle Ages emphasizing Petrarch's Canzoniere (Song Book) and Boccaccio's Decameron, and the works and genres that they influenced.
+            Lectures, seminar, 3 hours per week.
+            Prerequisite(s): one ITAL,
+         <a href="mars.html" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Medieval and Renaissance Studies');return document.MM_returnValue;">
+          MARS
+         </a>
+         credit or permission of instructor.
+            Note: given in English. No knowledge of Italian is required.
+         <a name="ITAL_3P93">
+          *ITAL 3P93
+         </a>
+         Dante's Inferno
+            (also offered as
+         <a href="/webcal/2021/undergrad/mars.html#MARS_3P93" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Dante\'s Inferno');return document.MM_returnValue;">
+          MARS 3P93
+         </a>
+         )
+            Dante's
+         <i>
+          Divine Comedy
+         </i>
+         and the world it created and reflected focusing on the
+         <i>
+          Inferno
+         </i>
+         . References to relevant visual arts (illustrations and adaptations of the
+         <i>
+          Divine Comedy
+         </i>
+         by such artists as Doré, Rodin and the Pre-Raphaelites).
+            Lectures, seminar, 3 hours per week.
+            Restriction: students must have a minimum of 5.0 overall credits or permission of instructor.
+            Note: given in English. No knowledge of Italian is required.
+         <a name="ITAL_3P94">
+          ITAL 3P94
+         </a>
+         Modern and Contemporary Italian Literature in Translation
+            Overview of the trends and genres in Italian literature during the 20th and 21st centuries. Representative writings selected from major novelists, short-story writers and poets, such as Pirandello, Montale, Moravia, Calvino, Morante and Eco.
+            Lectures, seminar, 3 hours per week.
+            Restriction: students must have a minimum of 5.0 overall credits or permission of instructor.
+            Note: given in English.
+         <a name="ITAL_3P97">
+          ITAL 3P97
+         </a>
+         Italian for Teachers
+            Approaches to the teaching of Italian as a second language. Teaching methods, educational materials and multi-media resources.
+            Lectures, 3 hours per week.
+            Prerequisite(s):
+         <a href="/webcal/2021/undergrad/ital.html#ITAL_2F00" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Language, Literature and Culture');return document.MM_returnValue;">
+          ITAL 2F00
+         </a>
+         and one ITAL credit numbered 2
+         <i>
+          (alpha)
+         </i>
+         00 or above or permission of instructor.
+         <a name="ITAL_3Q91">
+          ITAL 3Q91
+         </a>
+         Grammar, Composition and Conversation
+            Language practice through written compositions, analyses of texts, discussions and presentations.
+            Lectures, 3 hours per week.
+            Prerequisite(s):
+         <a href="/webcal/2021/undergrad/ital.html#ITAL_2F00" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Language, Literature and Culture');return document.MM_returnValue;">
+          ITAL 2F00
+         </a>
+         or permission of instructor.
+         <a name="ITAL_4P04">
+          ITAL 4P04
+         </a>
+         Translation: Applications
+            Translation practice. Interrelationships between English and Italian. Application of translation methodologies to a variety of texts.
+            Lectures, 3 hours per week.
+            Prerequisite(s):
+         <a href="/webcal/2021/undergrad/ital.html#ITAL_2F00" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Language, Literature and Culture');return document.MM_returnValue;">
+          ITAL 2F00
+         </a>
+         or permission of instructor.
+         <p class="courseheading">
+          INTERNSHIP COURSE
+         </p>
+         <a name="ITAL_3Q90">
+          ITAL 3Q90
+         </a>
+         Translating and Interpreting in the Community: An Internship
+            May include health care, tourism, wine industry, judicial services and business.
+            Tutorial, 1.5 hours per week plus internship placement time.
+            Restriction: open to ITAL (single or combined) majors with a minimum 70 percent major average and permission of the instructor.
+            Prerequisite(s):
+         <a href="/webcal/2021/undergrad/ital.html#ITAL_2F00" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Language, Literature and Culture');return document.MM_returnValue;">
+          ITAL 2F00
+         </a>
+         and
+         <a href="/webcal/2021/undergrad/ital.html#ITAL_2P90" onmouseout="MM_displayStatusMsg('');return document.MM_returnValue;" onmouseover="MM_displayStatusMsg('Translation and Language Practice');return document.MM_returnValue;">
+          2P90
+         </a>
+         .
+            Note: enrolment will be limited to the number of placements available. Italian Minors will be considered in exceptional cases. Students will be interviewed in Italian in order to select appropriate placements. Participation is required in an orientation to the co-op experience, goal setting, and resume and interview skills preparation. Part-time internship in a business where Italian is used. Students will be placed in the community for experiential learning.
+        </td>
+        <td>
+        </td>
+       </tr>
+       <tr>
+        <td colspan="3">
+         <img border="0" height="12" src="/webcal/images/spacer.gif" width="1"/>
+        </td>
+       </tr>
+      </table>
+      <div style="position: absolute; top: 0px; left: 177px; width: inherit; text-align: right; font-size: 8pt; font-style: italic; font-weight: bold; padding: 0; margin: 0;">
+       Last updated: February 12, 2021 @ 12:21PM
+      </div>
+     </div>
+    </div>
+    <div id="btmnav">
+    </div>
+   </div>
+  </div>
+  <div id="toolTipLayer" style="position:absolute; visibility: hidden; background: url(/webcal/images/bg_tips.gif) #FFFFCC;">
+  </div>
+  <script language="JavaScript">
+   <!--
+
+initToolTips(); //-->
+  </script>
+ </body>
+</html>
+

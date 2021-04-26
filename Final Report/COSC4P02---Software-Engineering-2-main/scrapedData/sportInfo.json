@@ -1,0 +1,4108 @@
+{
+    "sports": [
+        {
+            "sportname": "baseball",
+            "generalinfo": "Baseball has been featured on the Canada Summer Games program since the inaugural 1969 Canada Summer Games in Halifax/Dartmouth, NS.",
+            "table1": {
+                "Title": "2017 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "NA",
+                    "Saskatchewan",
+                    "Manitoba",
+                    "Alberta",
+                    "NA"
+                ],
+                "row2": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row3": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table2": {
+                "Title": "2013 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "NA",
+                    "British Columbia ",
+                    "Ontario",
+                    "Alberta",
+                    "NA"
+                ],
+                "row2": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row3": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table3": {
+                "Title": "2009 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "NA",
+                    "Quebec",
+                    "Alberta",
+                    "Ontario",
+                    "NA"
+                ],
+                "row2": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row3": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "alumni": [
+                {
+                    "name": "Russell MartinBaseball",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=ec4cc07a-c585-4691-be7a-ca425e8d4384&SetLanguage=en-CA"
+                },
+                {
+                    "name": "MIKE SOROKABaseball",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=fcb2c312-00d2-44c9-9b1e-7bc400afcc7d&SetLanguage=en-CA"
+                },
+                {
+                    "name": "ADAM LOEWENBaseball",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=9e993a01-e45d-478e-ad0e-bbaa5bf4a5d7&SetLanguage=en-CA"
+                }
+            ]
+        },
+        {
+            "sportname": "basketball",
+            "generalinfo": "Basketball has been on the Canada Games sport program since the inaugural Games held in Quebec City, QC in 1967. It started on the winter program but officially moved over to the summer program in 1989, and has been a featured sport in every summer Games since then.Basketball made its debut as a demonstration sport at the 1904 Summer Olympics in St. Louis, USA. It would return to the Olympics as an official sport at the 1936 Games in Berlin. There, Canada captured the silver medal, losing the final game to the United States 19-8.",
+            "table1": {
+                "Title": "2017 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Male",
+                    "Ontario",
+                    "Alberta",
+                    "Quebec",
+                    "NA"
+                ],
+                "row2": [
+                    "Female",
+                    "Quebec",
+                    "Ontario",
+                    "Manitoba",
+                    "NA"
+                ],
+                "row3": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table2": {
+                "Title": "2013 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Male",
+                    "Ontario",
+                    "Manitoba",
+                    "Quebec",
+                    "NA"
+                ],
+                "row2": [
+                    "Female",
+                    "Ontario",
+                    "British Columbia ",
+                    "Manitoba ",
+                    "NA"
+                ],
+                "row3": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table3": {
+                "Title": "2009 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Male",
+                    "Quebec",
+                    "Nova Scotia",
+                    "Ontario",
+                    "NA"
+                ],
+                "row2": [
+                    "Female",
+                    "Alberta",
+                    "British Columbia",
+                    "Ontario",
+                    "NA"
+                ],
+                "row3": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "alumni": [
+                {
+                    "name": "Steve NashBasketball",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=2d3db66d-81d4-453b-9bd5-a821e0c048a4&SetLanguage=en-CA"
+                },
+                {
+                    "name": "Todd MacCullochBasketball",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=2710efbb-0edb-4688-9d0b-85d82a1e8a82&SetLanguage=en-CA"
+                },
+                {
+                    "name": "Anthony BennettBasketball",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=6052cc29-33f5-46f4-b46d-c54c9e6e41f9&SetLanguage=en-CA"
+                }
+            ]
+        },
+        {
+            "sportname": "beach-volleyball",
+            "generalinfo": "Beach Volleyball made its debut in both Mens and Womens categories at the 2001 Canada Summer Games in London, ON. Beach volleyball returned to the program in 2009, and has been on every summer program since.Its Olympic debut came at the 1996 Atlanta Games, where Canadas John Child and Mark Heese defeated Portugals Joao Brenha and Miguel Maia 2-0 to claim bronze.",
+            "table1": {
+                "Title": "2017 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Male",
+                    "British Columbia",
+                    "Nova Scotia",
+                    "Ontario",
+                    "NA"
+                ],
+                "row2": [
+                    "Female",
+                    "Alberta",
+                    "Ontario",
+                    "British Columbia",
+                    "NA"
+                ],
+                "row3": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table2": {
+                "Title": "2013 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Male",
+                    "British Columbia",
+                    "Ontario",
+                    "Manitoba",
+                    "NA"
+                ],
+                "row2": [
+                    "Female",
+                    "Ontario",
+                    "British Columbia",
+                    "Quebec",
+                    "NA"
+                ],
+                "row3": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table3": {
+                "Title": "2009 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Male",
+                    "Ontario",
+                    "Quebec",
+                    "British Columbia",
+                    "NA"
+                ],
+                "row2": [
+                    "Female",
+                    "British Columbia",
+                    "Alberta",
+                    "Ontario",
+                    "NA"
+                ],
+                "row3": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "alumni": [
+                {
+                    "name": "CHAIM SCHALKBeach Volleyball",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=c6cb425d-cd14-4a00-bc9d-d7002a4aca0a&SetLanguage=en-CA"
+                },
+                {
+                    "name": "JOSH BINSTOCKBeach Volleyball",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=d263fe2d-6c45-47c0-b496-d9829156b215&SetLanguage=en-CA"
+                },
+                {
+                    "name": "Annie MartinBeach Volleyball",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=16fc07f4-e8e5-4cc1-8c1a-01b5f5571a82&SetLanguage=en-CA"
+                }
+            ]
+        },
+        {
+            "sportname": "box-lacrosse",
+            "generalinfo": "Mens and Womens Box Lacrosse returns to the Canada Summer Games program after originally being on the program from 1969-1985, and will be featured at the 2021 Canada Games taking place in the Niagara Region from August 6 to 22, 2021.",
+            "table1": {
+                "Title": "2017 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row2": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row3": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table2": {
+                "Title": "2013 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row2": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row3": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table3": {
+                "Title": "2009 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row2": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row3": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "alumni": [
+                {
+                    "name": "DAVE ARSENAULTBox Lacrosse",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=b3ae84d3-231c-4ece-9ecd-c8ab78138d35&SetLanguage=en-CA"
+                },
+                {
+                    "name": "Jamie BatleyBox Lacrosse",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=4dc35be0-2c5e-487e-a5a1-67de63daf49c&SetLanguage=en-CA"
+                },
+                {
+                    "name": "Todd CaissieBox Lacrosse",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=e1109ea6-7724-42f4-8b1d-b0272cbad6c2&SetLanguage=en-CA"
+                }
+            ]
+        },
+        {
+            "sportname": "canoe-kayak",
+            "generalinfo": "Canoe Kayak has been featured on every Canada Summer Games sport program since the inaugural Summer Games in 1969.Flatwater canoeing was featured at the 1924 Olympic Games in Paris as a demonstration sport. It became an Olympic discipline in Berlin in 1936, and the original events on the program have changed over the years to make way for newer ones.",
+            "table1": {
+                "Title": "2017 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Nova Scotia",
+                    "11",
+                    "13",
+                    "7",
+                    "31"
+                ],
+                "row2": [
+                    "Quebec",
+                    "11",
+                    "10",
+                    "9",
+                    "30"
+                ],
+                "row3": [
+                    "Ontario",
+                    "9",
+                    "7",
+                    "9",
+                    "25"
+                ],
+                "row4": [
+                    "Manitoba",
+                    "1",
+                    "3",
+                    "6",
+                    "10"
+                ],
+                "row5": [
+                    "Alberta",
+                    "3",
+                    "3",
+                    "3",
+                    "9"
+                ],
+                "row6": [
+                    "British Columbia",
+                    "1",
+                    "0",
+                    "2",
+                    "3"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table2": {
+                "Title": "2013 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Quebec",
+                    "10",
+                    "10",
+                    "10",
+                    "30"
+                ],
+                "row2": [
+                    "Ontario",
+                    "12",
+                    "10",
+                    "6",
+                    "28"
+                ],
+                "row3": [
+                    "Nova Scotia",
+                    "9",
+                    "12",
+                    "7",
+                    "28"
+                ],
+                "row4": [
+                    "Saskatchewan",
+                    "2",
+                    "3",
+                    "3",
+                    "8"
+                ],
+                "row5": [
+                    "Manitoba",
+                    "1",
+                    "0",
+                    "5",
+                    "6"
+                ],
+                "row6": [
+                    "British Columbia",
+                    "1",
+                    "1",
+                    "3",
+                    "5"
+                ],
+                "row7": [
+                    "Alberta",
+                    "1",
+                    "0",
+                    "2",
+                    "3"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table3": {
+                "Title": "2009 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Nova Scotia",
+                    "20",
+                    "4",
+                    "7",
+                    "31"
+                ],
+                "row2": [
+                    "Ontario",
+                    "2",
+                    "17",
+                    "9",
+                    "28"
+                ],
+                "row3": [
+                    "Quebec",
+                    "8",
+                    "10",
+                    "5",
+                    "23"
+                ],
+                "row4": [
+                    "Saskatchewan",
+                    "4",
+                    "0",
+                    "6",
+                    "10"
+                ],
+                "row5": [
+                    "British Columbia",
+                    "2",
+                    "2",
+                    "5",
+                    "9"
+                ],
+                "row6": [
+                    "Alberta",
+                    "0",
+                    "2",
+                    "1",
+                    "3"
+                ],
+                "row7": [
+                    "Manitoba",
+                    "0",
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "alumni": [
+                {
+                    "name": "Hugh FisherCanoe Kayak",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=be28fe5e-8d55-417a-9100-a46e0a9139b6&SetLanguage=en-CA"
+                },
+                {
+                    "name": "Andranne LangloisCanoe Kayak",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=cf297a47-178c-4429-8a19-8dea5cce0a7a&SetLanguage=en-CA"
+                },
+                {
+                    "name": "Adam Van KoeverdenCanoe Kayak",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=ff19572f-ec3b-43a0-a110-393e80a54bb4&SetLanguage=en-CA"
+                }
+            ]
+        },
+        {
+            "sportname": "cycling-mountain-bike",
+            "generalinfo": "Mountain Bike has been featured in every Canada Summer Games since it was originally added onto the 1997 Canada Games sport program.Mountain Bike made its debut as an Olympic discipline at the Atlanta Games in 1996, with a cross-country event for both men and women. The program has remained unchanged ever since. Canada has won three Olympic Mountain Bike medals, all in the womens cross-country event.",
+            "table1": {
+                "Title": "2017 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Quebec",
+                    "4",
+                    "1",
+                    "2",
+                    "7"
+                ],
+                "row2": [
+                    "Ontario",
+                    "0",
+                    "3",
+                    "3",
+                    "6"
+                ],
+                "row3": [
+                    "British Columbia",
+                    "2",
+                    "0",
+                    "1",
+                    "3"
+                ],
+                "row4": [
+                    "Alberta",
+                    "0",
+                    "1",
+                    "0",
+                    "1"
+                ],
+                "row5": [
+                    "Nova Scotia",
+                    "0",
+                    "1",
+                    "0",
+                    "1"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table2": {
+                "Title": "2013 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Quebec",
+                    "5",
+                    "1",
+                    "2",
+                    "8"
+                ],
+                "row2": [
+                    "Ontario ",
+                    "1",
+                    "3",
+                    "1",
+                    "5"
+                ],
+                "row3": [
+                    "Manitoba",
+                    "0",
+                    "1",
+                    "1",
+                    "2"
+                ],
+                "row4": [
+                    "British Columbia",
+                    "0",
+                    "0",
+                    "2",
+                    "2"
+                ],
+                "row5": [
+                    "Nova Scotia",
+                    "0",
+                    "1",
+                    "0",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table3": {
+                "Title": "2009 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Quebec",
+                    "1",
+                    "1",
+                    "2",
+                    "4"
+                ],
+                "row2": [
+                    "Ontario",
+                    "1",
+                    "0",
+                    "0",
+                    "1"
+                ],
+                "row3": [
+                    "British Columbia",
+                    "0",
+                    "1",
+                    "0",
+                    "1"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "alumni": [
+                {
+                    "name": "Landre BouchardCycling | Mountain Bike",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=8dfa435a-75a7-4e8e-9195-7addc972e7ff&SetLanguage=en-CA"
+                },
+                {
+                    "name": "Susan AuchCycling | Mountain Bike",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=f1d8539c-af22-4e3c-9ea6-bda4e451532c&SetLanguage=en-CA"
+                },
+                {
+                    "name": "Emily BattyCycling | Mountain Bike",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=e40ee4b0-ecd7-4b43-874a-c2427927e1ba&SetLanguage=en-CA"
+                }
+            ]
+        },
+        {
+            "sportname": "diving",
+            "generalinfo": "Diving events for both men and women have been on the Canada Summer Games program since the very first summer Games in 1969.Diving was first included in the Olympic Games at the 1904 Games in St Louis, and the springboard and platform events have been included since the 1908 Olympic Games in London. The first Canadian diver to stand on an Olympic podium was Irene MacDonald, who captured bronze in the 3m springboard at Melbourne 1956.",
+            "table1": {
+                "Title": "2017 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Quebec ",
+                    "3",
+                    "3",
+                    "1",
+                    "7"
+                ],
+                "row2": [
+                    "Ontario",
+                    "4",
+                    "1",
+                    "1",
+                    "6"
+                ],
+                "row3": [
+                    "British Columbia",
+                    "0",
+                    "4",
+                    "2",
+                    "6"
+                ],
+                "row4": [
+                    "Alberta",
+                    "1",
+                    "1",
+                    "1",
+                    "3"
+                ],
+                "row5": [
+                    "Saskatchewan",
+                    "0",
+                    "0",
+                    "2",
+                    "2"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table2": {
+                "Title": "2013 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Quebec",
+                    "7",
+                    "5",
+                    "4",
+                    "16"
+                ],
+                "row2": [
+                    "Alberta",
+                    "0",
+                    "2",
+                    "2",
+                    "4"
+                ],
+                "row3": [
+                    "British Columbia",
+                    "1",
+                    "0",
+                    "2",
+                    "3"
+                ],
+                "row4": [
+                    "Ontario",
+                    "0",
+                    "1",
+                    "0",
+                    "1"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table3": {
+                "Title": "2009 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Quebec",
+                    "5",
+                    "5",
+                    "7",
+                    "17"
+                ],
+                "row2": [
+                    "Alberta",
+                    "3",
+                    "1",
+                    "0",
+                    "4"
+                ],
+                "row3": [
+                    "British Columbia",
+                    "0",
+                    "1",
+                    "1",
+                    "2"
+                ],
+                "row4": [
+                    "Ontario",
+                    "0",
+                    "1",
+                    "0",
+                    "1"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "alumni": [
+                {
+                    "name": "Jennifer AbelDiving",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=16adfa78-ce2e-42f2-bf9c-d0ac7197773c&SetLanguage=en-CA"
+                },
+                {
+                    "name": "Alexandre DespatieDiving",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=a954e05f-7780-4cf6-9ffd-0ff6cb9e335f&SetLanguage=en-CA"
+                },
+                {
+                    "name": "Annie PelletierDiving",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=143087db-5229-4c24-b2ca-8dbb1008f368&SetLanguage=en-CA"
+                }
+            ]
+        },
+        {
+            "sportname": "golf",
+            "generalinfo": "Golf joined the Summer Games sport program in 2009, and has been on every summer program since.Golf has been on the Olympic program three times (1900, 1904, and 2016). Canadian Golf Hall of Famer George Lyon is the only Canadian to win an Olympic golf medal, winning gold at St. Louis 1904.",
+            "table1": {
+                "Title": "2017 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Male",
+                    "Christopher Charles Vandette (QC)",
+                    "Louis-Alexandre Jobin-Colgan (QC)",
+                    "Tristan Mandur (BC)",
+                    "NA"
+                ],
+                "row2": [
+                    "Female",
+                    "C\u00e9leste Dao (QC)",
+                    "Alisha Lau (BC)",
+                    "Eleanor Szeryk (ON)",
+                    "NA"
+                ],
+                "row3": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table2": {
+                "Title": "2013 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Male",
+                    "Kevin Kwon (BC)",
+                    "Etienne Papineau (QC)",
+                    "Matt Williams (AB)",
+                    "NA"
+                ],
+                "row2": [
+                    "Female",
+                    "Taylor Kim (BC)",
+                    "Val\u00e9rie Tanguay (QC)",
+                    "Sabrine Garrison (AB)",
+                    "NA"
+                ],
+                "row3": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table3": {
+                "Title": "2009 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Male",
+                    "Eugene Wong (BC)",
+                    "Justin Shin (BC)",
+                    "Julien Goulet (QC)",
+                    "NA"
+                ],
+                "row2": [
+                    "Female",
+                    "Sue Kim (BC)",
+                    " Augusta James (ON)",
+                    "SooBin Kim (BC)",
+                    "NA"
+                ],
+                "row3": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "alumni": [
+                {
+                    "name": "Eugene WongGolf",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=7fc850c9-865b-4b65-abf0-ac01d029c819&SetLanguage=en-CA"
+                },
+                {
+                    "name": "Brigitte ThibaultGolf",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=3923dd8a-5ebd-4448-a067-62dd250be353&SetLanguage=en-CA"
+                },
+                {
+                    "name": "Tiffany KongGolf",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=5a394186-5725-476a-8466-3d0f97a3c724&SetLanguage=en-CA"
+                }
+            ]
+        },
+        {
+            "sportname": "cycling-mountain-bike",
+            "generalinfo": "Mountain Bike has been featured in every Canada Summer Games since it was originally added onto the 1997 Canada Games sport program.Mountain Bike made its debut as an Olympic discipline at the Atlanta Games in 1996, with a cross-country event for both men and women. The program has remained unchanged ever since. Canada has won three Olympic Mountain Bike medals, all in the womens cross-country event.",
+            "table1": {
+                "Title": "2017 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Quebec",
+                    "4",
+                    "1",
+                    "2",
+                    "7"
+                ],
+                "row2": [
+                    "Ontario",
+                    "0",
+                    "3",
+                    "3",
+                    "6"
+                ],
+                "row3": [
+                    "British Columbia",
+                    "2",
+                    "0",
+                    "1",
+                    "3"
+                ],
+                "row4": [
+                    "Alberta",
+                    "0",
+                    "1",
+                    "0",
+                    "1"
+                ],
+                "row5": [
+                    "Nova Scotia",
+                    "0",
+                    "1",
+                    "0",
+                    "1"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table2": {
+                "Title": "2013 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Quebec",
+                    "5",
+                    "1",
+                    "2",
+                    "8"
+                ],
+                "row2": [
+                    "Ontario ",
+                    "1",
+                    "3",
+                    "1",
+                    "5"
+                ],
+                "row3": [
+                    "Manitoba",
+                    "0",
+                    "1",
+                    "1",
+                    "2"
+                ],
+                "row4": [
+                    "British Columbia",
+                    "0",
+                    "0",
+                    "2",
+                    "2"
+                ],
+                "row5": [
+                    "Nova Scotia",
+                    "0",
+                    "1",
+                    "0",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table3": {
+                "Title": "2009 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Quebec",
+                    "1",
+                    "1",
+                    "2",
+                    "4"
+                ],
+                "row2": [
+                    "Ontario",
+                    "1",
+                    "0",
+                    "0",
+                    "1"
+                ],
+                "row3": [
+                    "British Columbia",
+                    "0",
+                    "1",
+                    "0",
+                    "1"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "alumni": [
+                {
+                    "name": "Landre BouchardCycling | Mountain Bike",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=8dfa435a-75a7-4e8e-9195-7addc972e7ff&SetLanguage=en-CA"
+                },
+                {
+                    "name": "Susan AuchCycling | Mountain Bike",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=f1d8539c-af22-4e3c-9ea6-bda4e451532c&SetLanguage=en-CA"
+                },
+                {
+                    "name": "Emily BattyCycling | Mountain Bike",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=e40ee4b0-ecd7-4b43-874a-c2427927e1ba&SetLanguage=en-CA"
+                }
+            ]
+        },
+        {
+            "sportname": "rowing",
+            "generalinfo": "Rowing has been featured on every Canada Summer Games sport program since the inaugural Summer Games in 1969. Initially a male-only sport for the first two Summer Games in 1969 and 1973, Rowing has offered events for both male and female competitors since the 1977 Canada Summer Games.Rowing has been on the program for all Olympic Summer Games, and has traditionally been a sport that Canada has excelled at. The 41 Olympic medals won by Canadian rowers are the third-most for the country in summer sports.",
+            "table1": {
+                "Title": "2017 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "British Columbia",
+                    "5",
+                    "8",
+                    "1",
+                    "14"
+                ],
+                "row2": [
+                    "Ontario",
+                    "7",
+                    "1",
+                    "2",
+                    "10"
+                ],
+                "row3": [
+                    "Alberta",
+                    "0",
+                    "3",
+                    "6",
+                    "9"
+                ],
+                "row4": [
+                    "Quebec",
+                    "1",
+                    "1",
+                    "1",
+                    "3"
+                ],
+                "row5": [
+                    "Manitoba",
+                    "1",
+                    "0",
+                    "2",
+                    "3"
+                ],
+                "row6": [
+                    "Saskatchewan",
+                    "0",
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table2": {
+                "Title": "2013 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Ontario",
+                    "2",
+                    "9",
+                    "2",
+                    "13"
+                ],
+                "row2": [
+                    "British Columbia",
+                    "10",
+                    "1",
+                    "1",
+                    "12"
+                ],
+                "row3": [
+                    "Alberta",
+                    "1",
+                    "1",
+                    "4",
+                    "6"
+                ],
+                "row4": [
+                    "Quebec",
+                    "0",
+                    "0",
+                    "4",
+                    "4"
+                ],
+                "row5": [
+                    "New Brunswick",
+                    "1",
+                    "1",
+                    "1",
+                    "3"
+                ],
+                "row6": [
+                    "Saskatchewan",
+                    "0",
+                    "2",
+                    "1",
+                    "3"
+                ],
+                "row7": [
+                    "Nova Scotia",
+                    "0",
+                    "0",
+                    "1",
+                    "1"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table3": {
+                "Title": "2009 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Ontario",
+                    "8",
+                    "3",
+                    "2",
+                    "13"
+                ],
+                "row2": [
+                    "British Columbia",
+                    "4",
+                    "6",
+                    "2",
+                    "12"
+                ],
+                "row3": [
+                    "Saskatchewan",
+                    "1",
+                    "1",
+                    "4",
+                    "6"
+                ],
+                "row4": [
+                    "Quebec",
+                    "0",
+                    "3",
+                    "3",
+                    "6"
+                ],
+                "row5": [
+                    "New Brunswick",
+                    "0",
+                    "1",
+                    "1",
+                    "2"
+                ],
+                "row6": [
+                    "Manitoba",
+                    "1",
+                    "0",
+                    "0",
+                    "1"
+                ],
+                "row7": [
+                    "Alberta",
+                    "0",
+                    "0",
+                    "1",
+                    "1"
+                ],
+                "row8": [
+                    "Newfoundland and Labrador",
+                    "0",
+                    "0",
+                    "1",
+                    "1"
+                ]
+            },
+            "alumni": [
+                {
+                    "name": "Kirsten BarnesRowing",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=49aadae2-62c7-4333-99fa-bd74550e5207&SetLanguage=en-CA"
+                },
+                {
+                    "name": "Darren BarberRowing",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=b463a19d-f8f9-4c32-a527-71bd39520b6a&SetLanguage=en-CA"
+                },
+                {
+                    "name": "Nicole HareRowing",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=ee78a4b8-0027-41f9-b648-aec40c546556&SetLanguage=en-CA"
+                }
+            ]
+        },
+        {
+            "sportname": "rugby",
+            "generalinfo": "Mens rugby first joined the Canada Summer Games program for back to back Games in 1981 and 1985, and after sitting out the 1989 Games, returned from 1993-2009. Rugby returns to the 2021 Canada Summer Games program in Niagara, ON, as Womens Rugby Sevens will make its debut.Rugby union - 15 players per team - has been on the Olympic program four times (1900, 1908, 1920 and 1924) and Rugby Sevens made its Olympic debut in Rio in 2016. Canada won its first ever Olympic rugby medal in Rio when the Womens Rugby Sevens team captured bronze.",
+            "table1": {
+                "Title": "2017 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row2": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row3": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table2": {
+                "Title": "2013 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row2": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row3": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table3": {
+                "Title": "2009 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row2": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row3": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "alumni": [
+                {
+                    "name": "Megan LukanRugby",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=89ab7c24-3489-4708-ac49-ee04ffbde9fa&SetLanguage=en-CA"
+                },
+                {
+                    "name": "TEMITOPE OGUNJIMIRugby",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=f5b94b1c-c65d-4baa-b5e5-1a07f603a2c8&SetLanguage=en-CA"
+                },
+                {
+                    "name": "Patrick ParfreyRugby",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=8483932a-8f99-47a6-b21e-fd41c992b7e3&SetLanguage=en-CA"
+                }
+            ]
+        },
+        {
+            "sportname": "sailing",
+            "generalinfo": "With the exception of the 1973 Canada Games, sailing has been featured on every Canada Summer Games sport program since the inaugural Summer Games in 1969. Sailing has always featured events for both men and women, and added events for athletes with a physical disability at the 2013 Games in Sherbrooke, QC.Sailing joined the Olympic program at the 1900 Paris Games, and Canada has won nine Olympic sailing medals, with the first coming at Los Angeles 1932, with silver in the 8-metre and bronze in the 6-metre. ",
+            "table1": {
+                "Title": "2017 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Ontario",
+                    "2",
+                    "3",
+                    "0",
+                    "5"
+                ],
+                "row2": [
+                    "Quebec",
+                    "1",
+                    "0",
+                    "3",
+                    "4"
+                ],
+                "row3": [
+                    "Nova Scotia",
+                    "1",
+                    "1",
+                    "1",
+                    "3"
+                ],
+                "row4": [
+                    "British Columbia",
+                    "0",
+                    "1",
+                    "1",
+                    "2"
+                ],
+                "row5": [
+                    "Saskatchewan",
+                    "1",
+                    "0",
+                    "0",
+                    "1"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table2": {
+                "Title": "2013 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Ontario",
+                    "2",
+                    "0",
+                    "2",
+                    "4"
+                ],
+                "row2": [
+                    "British Columbia",
+                    "1",
+                    "2",
+                    "1",
+                    "4"
+                ],
+                "row3": [
+                    "Quebec",
+                    "1",
+                    "1",
+                    "0",
+                    "2"
+                ],
+                "row4": [
+                    "Nova Scotia",
+                    "0",
+                    "1",
+                    "1",
+                    "2"
+                ],
+                "row5": [
+                    "New Brunswick",
+                    "1",
+                    "0",
+                    "0",
+                    "1"
+                ],
+                "row6": [
+                    "Saskatchewan",
+                    "0",
+                    "1",
+                    "0",
+                    "1"
+                ],
+                "row7": [
+                    "Alberta",
+                    "0",
+                    "0",
+                    "1",
+                    "1"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table3": {
+                "Title": "2009 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Nova Scotia",
+                    "1",
+                    "3",
+                    "0",
+                    "4"
+                ],
+                "row2": [
+                    "Ontario",
+                    "1",
+                    "1",
+                    "2",
+                    "4"
+                ],
+                "row3": [
+                    "British Columbia",
+                    "2",
+                    "0",
+                    "1",
+                    "3"
+                ],
+                "row4": [
+                    "Quebec",
+                    "0",
+                    "0",
+                    "1",
+                    "1"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "alumni": [
+                {
+                    "name": "RICHARD CLARKESailing",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=0addb134-fc51-4444-9c6b-c7adb7797e31&SetLanguage=en-CA"
+                },
+                {
+                    "name": "NIKOLA GIRKESailing",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=dcf4ad8a-b472-4b49-8fff-efa90f59fe13&SetLanguage=en-CA"
+                },
+                {
+                    "name": "HUNTER LOWDENSailing",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=af3c7d8d-fe68-43af-8bd4-4b567122db60&SetLanguage=en-CA"
+                }
+            ]
+        },
+        {
+            "sportname": "soccer",
+            "generalinfo": "Soccer has been on every Canada Summer Games program since the first Summer Games in 1969. Originally only featuring Mens soccer, the 1993 Summer Games in Kamloops, BC saw the addition of the Womens event.",
+            "table1": {
+                "Title": "2017 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Male",
+                    "Ontario ",
+                    "Alberta",
+                    "Quebec",
+                    "NA"
+                ],
+                "row2": [
+                    "Female",
+                    "Quebec",
+                    "Ontario",
+                    "Nova Scotia",
+                    "NA"
+                ],
+                "row3": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table2": {
+                "Title": "2013 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Male",
+                    "Quebec",
+                    "British Columbia",
+                    "Ontario",
+                    "NA"
+                ],
+                "row2": [
+                    "Female",
+                    "British Columbia",
+                    "Quebec",
+                    "Ontario",
+                    "NA"
+                ],
+                "row3": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table3": {
+                "Title": "2009 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Male",
+                    "Quebec",
+                    "Alberta",
+                    "Ontario",
+                    "NA"
+                ],
+                "row2": [
+                    "Female",
+                    "British Columbia",
+                    "Quebec",
+                    "Ontario",
+                    "NA"
+                ],
+                "row3": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "alumni": [
+                {
+                    "name": "Karina LeBlancSoccer",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=c73f8af5-1afa-47c8-9889-b1d32f84d6c0&SetLanguage=en-CA"
+                },
+                {
+                    "name": "Rhian WilkinsonSoccer",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=99799c17-2e15-4ba2-9ce9-94a0a157b5a9&SetLanguage=en-CA"
+                },
+                {
+                    "name": "Ian BridgeSoccer",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=a59618d2-3342-498c-9d53-6ae15d680167&SetLanguage=en-CA"
+                }
+            ]
+        },
+        {
+            "sportname": "softball",
+            "generalinfo": "Softball has been on every Canada Summer Games program since the inaugural Summer Games in Halifax/Dartmouth, NS in 1969. Other than the 2009 and 2013 Summer Games where only Womens teams competed, the sport has traditionally featured both Mens and Womens competitions.Softball has been on the Olympic program four times prior to Tokyo 2020, with Canada finishing fifth at Atlanta 1996, eighth at Sydney 2000, fifth at Athens 2004, and fourth at Beijing 2008.",
+            "table1": {
+                "Title": "2017 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Male",
+                    "Ontario",
+                    "Saskatchewan",
+                    "Quebec",
+                    "NA"
+                ],
+                "row2": [
+                    "Female",
+                    "British Columbia",
+                    "Alberta",
+                    "Ontario",
+                    "NA"
+                ],
+                "row3": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table2": {
+                "Title": "2013 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Male",
+                    "N/A",
+                    "N/A",
+                    "N/A",
+                    "NA"
+                ],
+                "row2": [
+                    "Female",
+                    "British Columbia",
+                    "Manitoba",
+                    "Quebec",
+                    "NA"
+                ],
+                "row3": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table3": {
+                "Title": "2009 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Male",
+                    "N/A",
+                    "N/A",
+                    "N/A",
+                    "NA"
+                ],
+                "row2": [
+                    "Female",
+                    "British Columbia",
+                    "Ontario",
+                    "Quebec",
+                    "NA"
+                ],
+                "row3": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "alumni": [
+                {
+                    "name": "Danielle GoyetteSoftball",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=3572c82c-d38e-4289-a13e-2525d8884e0c&SetLanguage=en-CA"
+                },
+                {
+                    "name": "NOMIE MARINSoftball",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=14310182-0367-489b-8aba-f009f45dd2bb&SetLanguage=en-CA"
+                },
+                {
+                    "name": "Jennifer SallingSoftball",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=173cebdf-56dc-4957-bd15-6b7b7f15f6f5&SetLanguage=en-CA"
+                }
+            ]
+        },
+        {
+            "sportname": "swimming",
+            "generalinfo": "Swimming has been on the Canada Games program since the very beginning of the Summer Games in 1969. Featuring events for both Men and Women, Swimming also started incorporating events for athletes with physical disabilities at the 1997 Canada Games, and then added Special Olympics events to the following Games in London, ON in 2001.Swimming has also been featured on the program of all editions of the Olympic Games since 1896, with the very first Olympic events being freestyle (crawl) or breaststroke. Canada traditionally has excelled in swimming events, taking home an impressive 49 Olympic medals which makes it the second highest total amongst summer sports.",
+            "table1": {
+                "Title": "2017 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Ontario",
+                    "28",
+                    "23",
+                    "12",
+                    "63"
+                ],
+                "row2": [
+                    "British Columbia",
+                    "17",
+                    "16",
+                    "19",
+                    "52"
+                ],
+                "row3": [
+                    "Alberta",
+                    "14",
+                    "10",
+                    "13",
+                    "37"
+                ],
+                "row4": [
+                    "Quebec",
+                    "3",
+                    "12",
+                    "16",
+                    "31"
+                ],
+                "row5": [
+                    "Saskatchewan",
+                    "4",
+                    "3",
+                    "2",
+                    "9"
+                ],
+                "row6": [
+                    "Manitoba",
+                    "4",
+                    "2",
+                    "3",
+                    "9"
+                ],
+                "row7": [
+                    "New Brunswick",
+                    "0",
+                    "4",
+                    "4",
+                    "8"
+                ],
+                "row8": [
+                    "Prince Edward Island",
+                    "0",
+                    "1",
+                    "0",
+                    "1"
+                ]
+            },
+            "table2": {
+                "Title": "2013 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Ontario",
+                    "32",
+                    "17",
+                    "15",
+                    "64"
+                ],
+                "row2": [
+                    "Alberta",
+                    "13",
+                    "25",
+                    "14",
+                    "52"
+                ],
+                "row3": [
+                    "Quebec",
+                    "10",
+                    "14",
+                    "15",
+                    "39"
+                ],
+                "row4": [
+                    "British Columbia",
+                    "11",
+                    "5",
+                    "13",
+                    "29"
+                ],
+                "row5": [
+                    "Manitoba",
+                    "1",
+                    "3",
+                    "6",
+                    "10"
+                ],
+                "row6": [
+                    "Nova Scotia",
+                    "1",
+                    "2",
+                    "7",
+                    "10"
+                ],
+                "row7": [
+                    "Saskatchewan",
+                    "2",
+                    "3",
+                    "0",
+                    "5"
+                ],
+                "row8": [
+                    "Newfoundland and Labrador",
+                    "0",
+                    "1",
+                    "0",
+                    "1"
+                ]
+            },
+            "table3": {
+                "Title": "2009 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Ontario",
+                    "24",
+                    "24",
+                    "18",
+                    "65"
+                ],
+                "row2": [
+                    "British Columbia",
+                    "23",
+                    "11",
+                    "16",
+                    "50"
+                ],
+                "row3": [
+                    "Quebec",
+                    "9",
+                    "12",
+                    "16",
+                    "37"
+                ],
+                "row4": [
+                    "Alberta",
+                    "4",
+                    "13",
+                    "14",
+                    "31"
+                ],
+                "row5": [
+                    "Manitoba",
+                    "2",
+                    "4",
+                    "1",
+                    "7"
+                ],
+                "row6": [
+                    "Saskatchewan",
+                    "2",
+                    "1",
+                    "1",
+                    "4"
+                ],
+                "row7": [
+                    "Yukon",
+                    "2",
+                    "0",
+                    "2",
+                    "4"
+                ],
+                "row8": [
+                    "Nova Scotia",
+                    "2",
+                    "1",
+                    "0",
+                    "3"
+                ]
+            },
+            "alumni": [
+                {
+                    "name": "Ryan CochraneSwimming",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=23fba305-250b-4f73-a12a-fb76e85c8d5d&SetLanguage=en-CA"
+                },
+                {
+                    "name": "Nancy GarapickSwimming",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=9d8d4edb-5661-4d6d-b34e-99f476768cad&SetLanguage=en-CA"
+                },
+                {
+                    "name": "Kylie MasseSwimming",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=990883d1-72db-40de-abf7-685185e26e2e&SetLanguage=en-CA"
+                }
+            ]
+        },
+        {
+            "sportname": "tennis",
+            "generalinfo": "Tennis has been featured on every Canada Summer Games sport program since the inaugural Summer Games in 1969.Tennis has a long Olympic history but withdrew from the program after 1924. It returned to the program in 1988 and Olympic competition includes men's and women's singles and men's and women's doubles. Canadas lone Olympic tennis medal is the mens doubles gold by Daniel Nestor and Sbastien Lareau at Sydney 2000.",
+            "table1": {
+                "Title": "2017 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Ontario",
+                    "4",
+                    "1",
+                    "2",
+                    "7"
+                ],
+                "row2": [
+                    "Quebec",
+                    "1",
+                    "2",
+                    "1",
+                    "4"
+                ],
+                "row3": [
+                    "British Columbia",
+                    "0",
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "row4": [
+                    "Alberta",
+                    "0",
+                    "1",
+                    "0",
+                    "1"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table2": {
+                "Title": "2013 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "British Columbia",
+                    "1",
+                    "4",
+                    "0",
+                    "5"
+                ],
+                "row2": [
+                    "Ontario",
+                    "3",
+                    "1",
+                    "0",
+                    "4"
+                ],
+                "row3": [
+                    "Quebec",
+                    "0",
+                    "0",
+                    "3",
+                    "3"
+                ],
+                "row4": [
+                    "Alberta",
+                    "1",
+                    "0",
+                    "2",
+                    "3"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table3": {
+                "Title": "2009 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Ontario",
+                    "1",
+                    "3",
+                    "1",
+                    "5"
+                ],
+                "row2": [
+                    "Quebec",
+                    "4",
+                    "1",
+                    "0",
+                    "5"
+                ],
+                "row3": [
+                    "British Columbia",
+                    "0",
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "row4": [
+                    "Alberta",
+                    "0",
+                    "0",
+                    "1",
+                    "1"
+                ],
+                "row5": [
+                    "Manitoba",
+                    "0",
+                    "0",
+                    "1",
+                    "1"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "alumni": [
+                {
+                    "name": "Eugenie BouchardTennis",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=92fe070b-3133-4b04-ae4f-d8106c271095&SetLanguage=en-CA"
+                },
+                {
+                    "name": "Gabriela DabrowskiTennis",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=b7222679-db90-4720-9399-1aad03d42950&SetLanguage=en-CA"
+                },
+                {
+                    "name": "STPHANIE DUBOISTennis",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=f60dd0d6-17ef-40e9-b7e1-3342e364dd42&SetLanguage=en-CA"
+                }
+            ]
+        },
+        {
+            "sportname": "triathlon",
+            "generalinfo": "Triathlon is one of the newer sports on the Canada Summer Games program, making its debut at the 2009 Canada Games in PEI, and has always featured both Mens and Womens competition.Triathlon made its full medal Olympic debut at the 2000 Sydney Games, where Canadian Simon Whitfield won gold. He also won Canadas only other medal in the sport when he earned a silver at Beijing 2008.",
+            "table1": {
+                "Title": "2017 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "British Columbia",
+                    "4",
+                    "2",
+                    "0",
+                    "6"
+                ],
+                "row2": [
+                    "Ontario",
+                    "0",
+                    "2",
+                    "2",
+                    "4"
+                ],
+                "row3": [
+                    "Quebec",
+                    "1",
+                    "0",
+                    "2",
+                    "3"
+                ],
+                "row4": [
+                    "Manitoba",
+                    "0",
+                    "1",
+                    "1",
+                    "2"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table2": {
+                "Title": "2013 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Quebec",
+                    "3",
+                    "1",
+                    "0",
+                    "4"
+                ],
+                "row2": [
+                    "Alberta",
+                    "1",
+                    "2",
+                    "1",
+                    "4"
+                ],
+                "row3": [
+                    "Ontario",
+                    "1",
+                    "1",
+                    "1",
+                    "3"
+                ],
+                "row4": [
+                    "Saskatchewan",
+                    "0",
+                    "0",
+                    "2",
+                    "2"
+                ],
+                "row5": [
+                    "Manitoba",
+                    "0",
+                    "1",
+                    "0",
+                    "1"
+                ],
+                "row6": [
+                    "Nova Scotia",
+                    "0",
+                    "0",
+                    "1",
+                    "1"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table3": {
+                "Title": "2009 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "British Columbia",
+                    "4",
+                    "0",
+                    "2",
+                    "6"
+                ],
+                "row2": [
+                    "Manitoba",
+                    "0",
+                    "2",
+                    "1",
+                    "3"
+                ],
+                "row3": [
+                    "Ontario ",
+                    "0",
+                    "2",
+                    "1",
+                    "3"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "alumni": [
+                {
+                    "name": "SARAH-ANNE BRAULTTriathlon",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=0aa3608f-4f3c-43ad-a183-d3e0a92ce23d&SetLanguage=en-CA"
+                },
+                {
+                    "name": "AMLIE KRETZTriathlon",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=425d8802-6a3c-4098-a8c3-cd6d283d78d3&SetLanguage=en-CA"
+                },
+                {
+                    "name": "PAUL TICHELAARTriathlon",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=a6d7622d-7d54-4395-beed-cc3984090c3b&SetLanguage=en-CA"
+                }
+            ]
+        },
+        {
+            "sportname": "volleyball",
+            "generalinfo": "Indoor volleyball has been on the Canada Games program since the very first Canada Games in 1967 in Quebec City, QC, and is one of the few sports that has been featured on both Winter and Summer Games programs. Indoor volleyball was on the Winter program from 1969-1987, and transitioned to the Summer program at the 1985 Games in Saint John, NB.Indoor volleyball made its Olympic debut in 1964. Canada has competed in the mens Olympic volleyball tournament at four Games, posting its best result at Los Angeles 1984 with a fourth-place finish. The Canadian womens team has competed in three Olympic tournaments, most recently at Atlanta 1996 after finishing eighth at Montreal 1976 and Los Angeles 1984.",
+            "table1": {
+                "Title": "2017 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Male",
+                    "Ontario",
+                    "Alberta",
+                    "British Columbia",
+                    "NA"
+                ],
+                "row2": [
+                    "Female",
+                    "Manitoba",
+                    "Alberta",
+                    "New Brunswick",
+                    "NA"
+                ],
+                "row3": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table2": {
+                "Title": "2013 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Male",
+                    "Alberta",
+                    "Quebec",
+                    "British Columbia",
+                    "NA"
+                ],
+                "row2": [
+                    "Female",
+                    "Alberta",
+                    "British Columbia",
+                    "Manitoba",
+                    "NA"
+                ],
+                "row3": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "table3": {
+                "Title": "2009 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Male",
+                    "Alberta",
+                    "Ontario",
+                    "British Columbia",
+                    "NA"
+                ],
+                "row2": [
+                    "Female",
+                    "Manitoba",
+                    "Ontario",
+                    "Alberta",
+                    "NA"
+                ],
+                "row3": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row4": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row5": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row6": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row7": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ],
+                "row8": [
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA",
+                    "NA"
+                ]
+            },
+            "alumni": [
+                {
+                    "name": "RUDY VERHOEFFVolleyball",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=ae8daf98-2fe5-49e2-8f9b-f6a9793efed7&SetLanguage=en-CA"
+                },
+                {
+                    "name": "Justin DuffVolleyball",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=c3626cc9-fd63-44be-8308-1a4a71dccf2e&SetLanguage=en-CA"
+                },
+                {
+                    "name": "Nick HoagVolleyball",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=ebee7c6d-ec79-418b-8236-680876a64438&SetLanguage=en-CA"
+                }
+            ]
+        },
+        {
+            "sportname": "wrestlin",
+            "generalinfo": "Wrestling has been on the Canada Games sport program since the inception of the Games in 1967. Originally on the winter sport program, Wrestling moved to the summer sport program for the 1989 Games and added womens events for the 2005 Games.Freestyle wrestling first appeared on the Olympic program at the 1904 Games in St Louis. It was not included in the 1912 Games, but since the 1920 Games in Antwerp, it has been present at every edition of the Olympics. Canadas recent history in Olympic wrestling is quite impressive, with 11 of the countrys 17 medals coming since Los Angeles 1984.",
+            "table1": {
+                "Title": "2017 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Ontario",
+                    "9",
+                    "7",
+                    "3",
+                    "19"
+                ],
+                "row2": [
+                    "British Columbia",
+                    "8",
+                    "3",
+                    "6",
+                    "17"
+                ],
+                "row3": [
+                    "Alberta",
+                    "3",
+                    "5",
+                    "3",
+                    "11"
+                ],
+                "row4": [
+                    "New Brunswick",
+                    "1",
+                    "3",
+                    "2",
+                    "6"
+                ],
+                "row5": [
+                    "Quebec",
+                    "1",
+                    "1",
+                    "4",
+                    "6"
+                ],
+                "row6": [
+                    "Saskatchewan",
+                    "0",
+                    "1",
+                    "5",
+                    "6"
+                ],
+                "row7": [
+                    "Manitoba",
+                    "2",
+                    "2",
+                    "0",
+                    "4"
+                ],
+                "row8": [
+                    "Nova Scotia",
+                    "0",
+                    "1",
+                    "1",
+                    "2"
+                ]
+            },
+            "table2": {
+                "Title": "2013 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Ontario",
+                    "14",
+                    "5",
+                    "3",
+                    "22"
+                ],
+                "row2": [
+                    "British Columbia",
+                    "5",
+                    "6",
+                    "6",
+                    "17"
+                ],
+                "row3": [
+                    "Sask",
+                    "1",
+                    "6",
+                    "9",
+                    "16"
+                ],
+                "row4": [
+                    "Alberta",
+                    "4",
+                    "3",
+                    "2",
+                    "9"
+                ],
+                "row5": [
+                    "Quebec",
+                    "1",
+                    "2",
+                    "2",
+                    "5"
+                ],
+                "row6": [
+                    "New Brunswick",
+                    "1",
+                    "0",
+                    "2",
+                    "3"
+                ],
+                "row7": [
+                    "Prince Edward Island ",
+                    "0",
+                    "2",
+                    "0",
+                    "2"
+                ],
+                "row8": [
+                    "Manitoba",
+                    "0",
+                    "1",
+                    "1",
+                    "2"
+                ]
+            },
+            "table3": {
+                "Title": "2009 Canada Games",
+                "Header": [
+                    "P/T Team",
+                    "Gold",
+                    "Silver",
+                    "Bronze",
+                    "Total"
+                ],
+                "row1": [
+                    "Ontario",
+                    "15",
+                    "1",
+                    "6",
+                    "22"
+                ],
+                "row2": [
+                    "British Columbia",
+                    "4",
+                    "6",
+                    "7",
+                    "17"
+                ],
+                "row3": [
+                    "Alberta",
+                    "3",
+                    "7",
+                    "5",
+                    "15"
+                ],
+                "row4": [
+                    "Saskatchewan",
+                    "0",
+                    "6",
+                    "5",
+                    "11"
+                ],
+                "row5": [
+                    "New Brunswick",
+                    "1",
+                    "3",
+                    "1",
+                    "5"
+                ],
+                "row6": [
+                    "Quebec",
+                    "1",
+                    "2",
+                    "0",
+                    "3"
+                ],
+                "row7": [
+                    "Prince Edward Island",
+                    "1",
+                    "1",
+                    "0",
+                    "2"
+                ],
+                "row8": [
+                    "Nova Scotia",
+                    "1",
+                    "0",
+                    "1",
+                    "2"
+                ]
+            },
+            "alumni": [
+                {
+                    "name": "MICHELLE FAZZARIWrestling",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=ea876364-3c3d-477f-9d93-759fcfb2d3ce&SetLanguage=en-CA"
+                },
+                {
+                    "name": "DORI YEATSWrestling",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=42afd092-9e2a-4dcc-bfa5-805a87fa2094&SetLanguage=en-CA"
+                },
+                {
+                    "name": "ARJAN BHULLARWrestling",
+                    "link": "https://cgc.gems.pro/AlumCgc/Alumni/FindAlumni.aspx?Person_GUID=4028cefb-10d2-41a7-87c0-f1deb524c132&SetLanguage=en-CA"
+                }
+            ]
+        }
+    ]
+}
