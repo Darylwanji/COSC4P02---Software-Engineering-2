@@ -1,0 +1,122 @@
+https://discover.brocku.ca/tours/
+('a', attrs = {'class' : 'fc-event fc-event-skin fc-event-hori fc-corner-left fc-corner-right themeroller ui-state-focus cat-tours'})
+('div', attrs = {'class' : 'fc-event-inner'})
+('span', attrs = {'class' : 'event-start-time'})
+('span', attrs = {'class' : 'event-end-time'})
+
+https://brocku.ca/ccee/co-op-education/current-students/
+('p', attrs = {'class' : 'page-intro'})
+('div', attrs = {'class' : 'wpb_wrapper'})
+
+https://discover.brocku.ca/programs/
+('u1', attrs = {'id' : 'faculties-list'})
+('div', attrs = {'class' : 'program-inner'})
+('u1', attrs = {'class' : 'faculties'})
+('u1', attrs = {'class' : 'experiential'})
+
+https://brocku.ca/and/choose-brock/
+('p', attrs = {'class' : 'extra-large black'})
+('p', attrs = {'class' : 'page-intro black'})
+
+https://discover.brocku.ca/experience/
+('span', attrs = {'class' : 'fc-event-title'})
+('span', attrs = {'class' : 'event-start-time'})
+('span', attrs = {'class' : 'event-end-time'})
+
+https://discover.brocku.ca/apply/next-steps/
+('div', attrs = {'class' : 'wpb_wrapper'})
+('a', attrs = {'class' : 'button'})
+
+https://brocku.ca/current-students/main/student-government/
+('div', attrs = {'class' : 'wpb_wrapper'})
+('div', attrs = {'class' : 'vc_btn3-container vc_btn3-left'})
+
+https://brocku.ca/residence/
+('div', attrs = {'class' : 'wpb_wrapper'})
+('a', attrs = {'class' : 'vc_general vc_btn3 vc_btn3-size- vc_btn3-shape- vc_btn3-style- vc_btn3-icon-right vc_btn3-color-danger'})
+
+https://brocku.ca/student-life-success/student-life/get-involved-on-campus/
+('div', attrs = {'class' : 'vc_separator wpb_content_element vc_sep_width_100 vc_sep_pos_align_center vc_separator-has-text'})
+('div', attrs = {'class' : 'wpb_wrapper'})
+('a', attrs = {'class' : 'vc_general vc_btn3 vc_btn3-size- vc_btn3-shape- vc_btn3-style- vc_btn3-icon-right vc_btn3-color-danger'})
+('div', attrs = {'class' : 'vc_tta-panel-body'})
+('div', attrs = {'class' : 'wpb_wrapper'})
+('div', attrs = {'class' : 'vc_btn3-container vc_btn3-inline'})
+
+https://brocku.ca/health-wellness-accessibility
+('li', attrs = {'class' : 'vc_tta-tab vc_active'})
+('th', attrs = {'data-sort' : 'string'})
+('td', attrs = {'style' : 'width: auto'})
+('td', attrs = {'style' : 'width: 12%'})
+('a', attrs = {'class' : 'vc_general vc_btn3 vc_btn3-size- vc_btn3-shape- vc_btn3-style- vc_btn3-icon-right vc_btn3-color-danger'})
+('div', attrs = {'class' : 'wpb_wrapper'})
+
+https://brocku.ca/international/future/
+('div', attrs = {'class' : 'wpb_wrapper vc_figure'})
+('div', attrs = {'class' : 'wpb_wrapper'})
+
+https://brocku.ca/admissions/international/international-secondary-school-student/
+('div', attrs = {'class' : 'wpb_text_column wpb_content_element'})
+('span', attrs = {'class' : 'vc_table_content'})
+
+https://brocku.ca/admissions/apply/#international
+('span', attrs = {'class' : 'vc_tta-title-text'})
+('div', attrs = {'class' : 'wpb_wrapper'})
+('a', attrs = {'class' : 'vc_general vc_btn3 vc_btn3-size- vc_btn3-shape- vc_btn3-style- vc_btn3-icon-right vc_btn3-color-danger'})
+('th', attrs = {'data-sort' : 'string'})
+('td', attrs = {'style' : 'width: auto'})
+('td', attrs = {'style' : 'width: 15%'})
+('td', attrs = {'style' : 'width: 20%'})
+
+https://brocku.ca/international/future/tuition-awards/
+('span', attrs = {'class' : 'big'})
+('div', attrs = {'class' : 'wpb_wrapper'})
+('div', attrs = {'class' : 'vc_btn3-container vc_btn3-right'})
+('div', attrs = {'class' : 'wpb_text_column wpb_content_element'})
+('div', attrs = {'class' : 'wpb_wrapper'})
+
+https://brocku.ca/international/future/student-life/
+('div', attrs = {'class' : 'wpb_wrapper'})
+('div', attrs = {'class' : 'vc_btn3-container vc_btn3-inline'})
+
+https://brocku.ca/international/future/esl/
+('div', attrs = {'class' : 'wpb_wrapper'})
+('div', attrs = {'class' : 'vc_general vc_cta3 vc_cta3-align-left vc_cta3-color-classic vc_cta3-icon-size-md'})
+('header', attrs = {'class' : 'vc_cta3-content-header'})
+('a', attrs = {'class' : 'vc_general vc_btn3 vc_btn3-size- vc_btn3-shape- vc_btn3-style- vc_btn3-icon-right vc_btn3-color-danger'})
+
+https://brocku.ca/international/future/connect/
+('header', attrs = {'class' : 'vc_cta3-content-header'})
+('a', attrs = {'class' : 'vc_general vc_btn3 vc_btn3-size- vc_btn3-shape- vc_btn3-style- vc_btn3-icon-right vc_btn3-color-danger'})
+
+https://brocku.ca/international/future/next-steps/
+('span', attrs = {'class' : 'vc_tta-title-text'})
+('div', attrs = {'class' : 'wpb_text_column wpb_content_element'})
+('header', attrs = {'class' : 'vc_cta3-content-header'})
+('div', attrs = {'class' : 'vc_btn3-container vc_btn3-center'})
+('div', attrs = {'class' : 'wpb_wrapper'})
+
+https://brocku.ca/safa/important-dates/
+('div', attrs = {'class' : 'wpb_wrapper'})
+('td', attrs = {'class' : 'vc_table_cell'})
+('td', attrs = {'class' : 'vc_table_content'})
+
+https://brocku.ca/important-dates/
+('div', attrs = {'class' : 'wpb_wrapper'})
+('th', attrs = {'data-sort' : 'string'})
+('th', attrs = {'data-sort' : 'int'})
+('td', attrs = {'style' : 'width: 45%'})
+('td', attrs = {'style' : 'width: 15%'})
+('td', attrs = {'style' : 'width: 20%'})
+
+need direct link
+
+https://issuu.com/brockuniversity/docs/2020-253_-_brock_viewbook_2021_digitalversion?fr=sN2Y3ZjMwMDc1
+https://brocku.ca/graduate-studies/contact-us/
+https://brocku.ca/webcal/current/graduate/
+https://brocku.ca/library/
+https://brocku.ca/blogs/campus-map/
+https://campusstore.brocku.ca/
+https://niagara2022games.ca/about/niagara-region/
+https://shop.niagara2022games.ca/
+

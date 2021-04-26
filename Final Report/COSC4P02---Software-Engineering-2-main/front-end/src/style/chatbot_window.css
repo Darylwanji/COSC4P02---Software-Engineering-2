@@ -1,0 +1,187 @@
+/* container for faq and chatbot section */
+#page-content{ 
+    padding-top: 10px;
+    padding-bottom: 70px;
+    padding-left: 10px;
+    padding-right:10px;
+    /* border: 1px solid green; */
+    text-align: center;
+    width: 100%;
+}
+
+@media screen and (max-width : 1920px) and (min-width: 1280px){
+    #chatBox{
+        width: 600px;
+    }
+}
+
+@media screen and (max-width : 1280px) and (min-width: 1024px){
+    #chatBox{
+        width: 600px;
+    }
+}
+
+@media screen and (max-width : 1024px) and (min-width: 600px){
+    #chatBox{
+        width: 470px;
+    }
+}
+
+@media screen and (max-width : 600px){
+    #faq{
+        width: 400px;
+    }
+}
+
+/* for all the elements */
+/* width is 760px, 
+if width is changed, you also need to adjust width of 
+input, bubble, chatContainer, iframeContainer and brockNews */
+/* temporarily positioned bottom right of page */
+#main{
+    display: inline-block;
+    vertical-align: top;
+    margin: 30px;
+    /* border: 1px solid black; */
+}
+
+/* for the chat box */
+#chatBox{
+    height: 500px;
+    border: 2px solid #dcdcdc; 
+    border-radius: 2px;
+    overflow-y: auto;
+    padding: 10px;
+}
+
+/* for the input box */
+/* if main width is changed input width should change too */
+#input{
+    padding: 15px;
+    padding-left: 25px;
+    width: 70%;
+    height:60px;
+    display: inline;
+    border-radius: 0px;
+    border:none;
+    background-color: #f0f0f0;
+    font-family: 'Lato', sans-serif;
+    outline: none;
+}
+
+/*To center the input box */
+.inputDiv{
+    margin: 0 auto;
+    width: 80%;
+    margin-top: 10px;
+}
+
+/* for the submit button */
+#submitButton{
+    display: inline;
+     padding: 6px;
+    /* padding-left: 16px;
+    padding-right: 13px; */
+    vertical-align: top;
+    /*background-color: #004f71;*/
+    background-color: #c00000;
+    color:#f0f0f0;
+    transition: background-color 0.5s;
+    cursor: pointer;
+    width: 60px;
+    height:60px;
+    margin-left: -4px;
+}
+
+#submitButton:hover{
+    /*background-color: #008fcc;*/
+    background-color: #a90000;
+}
+
+/* for the title before the message i.e. You: or MoBi: */
+.message{
+    /*color: #004f71;*/
+    color: #c00000;
+}
+
+/* for the chat bubble */
+/* min and max width should change if main width is changed */
+.bubble{
+    background-color: #dcdcdc;
+    text-align: center;
+    border-radius: 18px;
+    padding: 15px;
+    display: block;
+    min-width: 50%;
+    max-width: 50%;
+    font-family: 'Lato', sans-serif;
+}
+
+/* to position the user messages to the right */
+#userText{
+    float:right;
+}
+
+/* the containers for the chat bubbles */
+/* if main width is changed chatContainer width should be changed too */
+.chatContainer{
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+
+/* user chatContainer space between bubbles */
+#user{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* bot chatContainer space between bubbles */
+#bot{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* for editing the scroll bar */
+#chatBox::-webkit-scrollbar {
+    width: 14px;
+}
+#chatBox::-webkit-scrollbar-track {
+    background: transparent;
+}
+    
+#chatBox::-webkit-scrollbar-thumb {
+    border: 4px solid rgba(0, 0, 0, 0); 
+    background-clip: padding-box;
+    -webkit-border-radius: 7px;
+    background-color: rgb(100,100,100);
+}
+
+#chatBox::-webkit-scrollbar-thumb:hover{
+    border: 2px solid rgba(0, 0, 0, 0); 
+} 
+
+#chatBox::-webkit-scrollbar-track-piece:end {
+    background-color: #dcdcdc;
+    margin-bottom: 20px;
+    border: 4px solid rgba(0, 0, 0, 0);
+    background-clip: padding-box;
+    -webkit-border-radius: 7px;
+}
+
+#chatBox::-webkit-scrollbar-track-piece:start {
+    background-color: #dcdcdc;
+    margin-top: 20px;
+    border: 4px solid rgba(0, 0, 0, 0);
+    background-clip: padding-box;
+    -webkit-border-radius: 7px;
+}
+
+/*the brock news iFrame */
+/* if main width is changed, brockNews width needs to be changed too */
+/* shifts page over and sets size */
+#brockNews
+{
+    width    : 100%;
+    height   : 70%;
+}

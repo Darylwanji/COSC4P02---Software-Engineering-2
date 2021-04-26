@@ -1,0 +1,24 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi", "How are you?", "Is anyone there?", "Hello", "Good day", "I need help","Morning"],
+         "responses": ["Hello, thanks for visiting", "Good to see you again", "Hi there, how can I help?"],
+         "context_set": ""
+        },
+        {"tag": "goodbye",
+         "patterns": ["Bye", "See you later", "Goodbye"],
+         "responses": ["See you later, thanks for visiting", "Have a nice day", "Bye! Come back again soon."]
+        },
+        {"tag": "thanks",
+         "patterns": ["Thanks", "Thank you", "That's helpful", " Thanks a lot"],
+         "responses": ["Happy to help!", "Any time!", "My pleasure", " You are Welcome"]
+        },
+        {"tag": "payments",
+         "patterns": ["Do you take credit cards?", "Do you accept Mastercard?", "Are you cash only?" ],
+         "responses": ["We accept VISA, Mastercard and AMEX", "We accept most major credit cards"]
+        },
+        {"tag": "Offerings",
+         "patterns": ["Do you offer ?", "Will I be able to do ?", " is it offered ?"],
+         "responses": ["Applied Behaviour Analysis Across the Lifespan I", "Critical Qualitative Design Applications", "American Sign Language I"]
+        }
+   ]
+}
