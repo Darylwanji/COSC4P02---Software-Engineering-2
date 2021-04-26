@@ -18,12 +18,35 @@ function submit(){
 }
 
 function output(input) { //Will recieve answer from back-end based on input
+
+    //remove all characters except word characters, space, and digits
+    let text = (input.toLowerCase()).replace(/[^\w\s\d]/gi, "");
+
+    // 'tell me a story' -> 'tell me story'
+    // 'i feel happy' -> 'happy'
+    text = text
+    .replace(/ a /g, " ")
+    .replace(/im /g, "")
+    .replace(/ i /g, " ")
+    .replace(/i /g, "")
+    .replace(/ is /g, " ")
+    .replace(/ am /g, " ")
+    .replace(/am /g, "")
+    .replace(/i feel /g, "")
+    .replace(/whats/g, "what is")
+    .replace(/please /g, "")
+    .replace(/ please/g, "");
+
+
     var API_URL = 'https://4r6bkh99fk.execute-api.us-east-2.amazonaws.com/dev/chat';
 	$(document).ready(function(){
 		$.ajax({
-			type: 'GET',
+			type: 'POST',
 			url: API_URL,
+            data: JSON.stringify(text),
+            contentType: "application/json",
 			success: function(data){
+                console.log(data);
 				addChat(input, data); //Updates the chatbox with the input and response
 			}
 		});
